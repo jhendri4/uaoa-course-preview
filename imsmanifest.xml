@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="MANIFEST-428b8e0e-9238-4608-a1a3-962afd799ccf" version="1" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 4th Edition</schemaversion>
+  </metadata>
+  <organizations default="ORG-428b8e0e-9238-4608-a1a3-962afd799ccf">
+    <organization identifier="ORG-428b8e0e-9238-4608-a1a3-962afd799ccf">
+      <title>UAOA Microcredential</title>
+      <item identifier="ITEM-428b8e0e-9238-4608-a1a3-962afd799ccf" identifierref="RESOURCE-428b8e0e-9238-4608-a1a3-962afd799ccf">
+        <title>UAOA Microcredential</title>
+        <imsss:sequencing>
+          <imsss:objectives>
+            <imsss:primaryObjective satisfiedByMeasure="true" objectiveID="primary_obj">
+              <imsss:minNormalizedMeasure>0.6</imsss:minNormalizedMeasure>
+            </imsss:primaryObjective>
+          </imsss:objectives>
+          <imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
+        </imsss:sequencing>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RESOURCE-428b8e0e-9238-4608-a1a3-962afd799ccf" type="webcontent" href="index.html" adlcp:scormType="sco">
+      <file href="index.html"/>
+      <file href="assets/PasswordEntryDialog.js"/>
+      <file href="assets/__vite-browser-external.js"/>
+      <file href="assets/index.css"/>
+      <file href="assets/index.js"/>
+      <file href="assets/index2.js"/>
+      <file href="assets/mathRendering.css"/>
+      <file href="assets/mathRendering.js"/>
+      <file href="assets/scormstack-logo.svg"/>
+      <file href="assets/vendor.js"/>
+      <file href="assets/video.es.js"/>
+    </resource>
+  </resources>
+</manifest>
