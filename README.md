@@ -1,6 +1,6 @@
 # UAOA Microcredential — course preview
 
-Static HTML export of the UAOA eLearning course (HTML package, 2026-10-19).
+Static HTML export of the UAOA eLearning course (HTML package, 2026-10-20).
 
 **Live preview:** https://jhendri4.github.io/uaoa-course-preview/
 
