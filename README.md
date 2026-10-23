@@ -1,26 +1,21 @@
 # UAOA Microcredential — course preview
 
-Stakeholder landing page for **per-language HTML course exports**.
+Stakeholder landing page for the **English HTML course export**.
 
 **Live site:** https://jhendri4.github.io/uaoa-course-preview/
 
-## Languages
+## Preview
 
 | Path | Language |
 |------|----------|
 | [`previews/en/`](previews/en/) | English |
-| [`previews/es/`](previews/es/) | Español |
-| [`previews/fr/`](previews/fr/) | Français |
-| [`previews/cs/`](previews/cs/) | Čeština |
-| [`previews/sl/`](previews/sl/) | Slovenščina |
-| [`previews/sv/`](previews/sv/) | Svenska |
 
-Each folder is a ScormStack **HTML export** with `index.html` as the player entry point.
+`previews/en/` is a ScormStack **HTML export** with `index.html` as the player entry point.
 
-## Refresh an export
+## Refresh the export
 
-1. Export HTML for that language from ScormStack and unzip.
-2. Replace `previews/<locale>/` contents so `previews/<locale>/index.html` opens the player.
+1. Export HTML (English) from ScormStack and unzip.
+2. Replace `previews/en/` contents so `previews/en/index.html` opens the player.
 3. Commit and push `main` — GitHub Pages rebuilds from `/`.
 
 ## Related

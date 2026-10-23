@@ -112,13 +112,20 @@ a { color: inherit; text-decoration: none; }
   gap: 1rem;
 }
 
+.lang-grid--single {
+  grid-template-columns: minmax(0, 380px);
+  justify-content: start;
+}
+
 @media (max-width: 860px) {
   .lang-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .lang-grid--single { grid-template-columns: minmax(0, 380px); }
 }
 
 @media (max-width: 560px) {
   .shell { width: min(100% - 1.5rem, 1040px); }
-  .lang-grid { grid-template-columns: 1fr; }
+  .lang-grid,
+  .lang-grid--single { grid-template-columns: 1fr; }
   .hero h1 { max-width: none; }
 }
 

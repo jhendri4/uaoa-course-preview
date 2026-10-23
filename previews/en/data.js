@@ -1,10 +1,10 @@
 // Block ID Mapping
-// Generated: 2026-10-23T00:03:45.764Z
+// Generated: 2026-10-23T22:47:44.583Z
 // Course: UAOA eLearning Course
 window.__BLOCK_ID_MAPPING__ = {
   "courseId": "428b8e0e-9238-4608-a1a3-962afd799ccf",
   "courseTitle": "UAOA eLearning Course",
-  "generatedAt": "2026-10-23T00:03:45.764Z",
+  "generatedAt": "2026-10-23T22:47:44.583Z",
   "version": "1.0",
   "blocks": {
     "b0": {
@@ -2541,23 +2541,6 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 8
     },
     "b149": {
-      "originalId": "c582eb1d-a822-4964-9c79-b2b273b91411",
-      "type": "text",
-      "variant": "paragraph",
-      "slideId": "s8",
-      "slideOriginalId": "d4f62e1d-6153-42a0-893d-a2433efb98fe",
-      "slideIndex": 8,
-      "slideTitle": "Final Quiz"
-    },
-    "c582eb1d-a822-4964-9c79-b2b273b91411": {
-      "sequentialId": "b149",
-      "type": "text",
-      "variant": "paragraph",
-      "slideId": "s8",
-      "slideOriginalId": "d4f62e1d-6153-42a0-893d-a2433efb98fe",
-      "slideIndex": 8
-    },
-    "b150": {
       "originalId": "e54a0c75-16cf-4018-beda-c4d95650a46e",
       "type": "navigation_button",
       "variant": "default",
@@ -2567,14 +2550,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Final Quiz"
     },
     "e54a0c75-16cf-4018-beda-c4d95650a46e": {
-      "sequentialId": "b150",
+      "sequentialId": "b149",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s8",
       "slideOriginalId": "d4f62e1d-6153-42a0-893d-a2433efb98fe",
       "slideIndex": 8
     },
-    "b151": {
+    "b150": {
       "originalId": "9b982c3c-42ca-4a98-82c8-3e9fc55f51ff",
       "type": "embed",
       "variant": "iframe",
@@ -2584,14 +2567,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Post-course Survey"
     },
     "9b982c3c-42ca-4a98-82c8-3e9fc55f51ff": {
-      "sequentialId": "b151",
+      "sequentialId": "b150",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s9",
       "slideOriginalId": "ff1b2975-4e6e-44d3-85d6-74c61a9cbb51",
       "slideIndex": 9
     },
-    "b152": {
+    "b151": {
       "originalId": "e35d5660-d3c1-43f2-89c1-5eaa5feb92df",
       "type": "navigation_button",
       "variant": "default",
@@ -2601,12 +2584,29 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Post-course Survey"
     },
     "e35d5660-d3c1-43f2-89c1-5eaa5feb92df": {
-      "sequentialId": "b152",
+      "sequentialId": "b151",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s9",
       "slideOriginalId": "ff1b2975-4e6e-44d3-85d6-74c61a9cbb51",
       "slideIndex": 9
+    },
+    "b152": {
+      "originalId": "c582eb1d-a822-4964-9c79-b2b273b91411",
+      "type": "text",
+      "variant": "paragraph",
+      "slideId": "s10",
+      "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
+      "slideIndex": 10,
+      "slideTitle": "Exit Page"
+    },
+    "c582eb1d-a822-4964-9c79-b2b273b91411": {
+      "sequentialId": "b152",
+      "type": "text",
+      "variant": "paragraph",
+      "slideId": "s10",
+      "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
+      "slideIndex": 10
     },
     "b153": {
       "originalId": "eb1d20d5-a15b-4706-9abd-665cf0cf3707",
@@ -2911,8 +2911,7 @@ window.__BLOCK_ID_MAPPING__ = {
         "b146",
         "b147",
         "b148",
-        "b149",
-        "b150"
+        "b149"
       ]
     },
     "d4f62e1d-6153-42a0-893d-a2433efb98fe": {
@@ -2925,8 +2924,8 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Post-course Survey",
       "index": 9,
       "blockIds": [
-        "b151",
-        "b152"
+        "b150",
+        "b151"
       ]
     },
     "ff1b2975-4e6e-44d3-85d6-74c61a9cbb51": {
@@ -2939,6 +2938,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Exit Page",
       "index": 10,
       "blockIds": [
+        "b152",
         "b153",
         "b154",
         "b155"
@@ -3768,11 +3768,6 @@ window.__BLOCK_ID_MAPPING__ = {
         },
         {
           "id": "b149",
-          "originalId": "c582eb1d-a822-4964-9c79-b2b273b91411",
-          "type": "text"
-        },
-        {
-          "id": "b150",
           "originalId": "e54a0c75-16cf-4018-beda-c4d95650a46e",
           "type": "navigation_button"
         }
@@ -3785,12 +3780,12 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 9,
       "blocks": [
         {
-          "id": "b151",
+          "id": "b150",
           "originalId": "9b982c3c-42ca-4a98-82c8-3e9fc55f51ff",
           "type": "embed"
         },
         {
-          "id": "b152",
+          "id": "b151",
           "originalId": "e35d5660-d3c1-43f2-89c1-5eaa5feb92df",
           "type": "navigation_button"
         }
@@ -3802,6 +3797,11 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Exit Page",
       "index": 10,
       "blocks": [
+        {
+          "id": "b152",
+          "originalId": "c582eb1d-a822-4964-9c79-b2b273b91411",
+          "type": "text"
+        },
         {
           "id": "b153",
           "originalId": "eb1d20d5-a15b-4706-9abd-665cf0cf3707",
