@@ -1,7 +1,9 @@
 # Language HTML exports
 
-English ScormStack HTML package. Entry point:
+Each locale folder is a full ScormStack HTML package. Entry point:
 
 ```
-previews/en/index.html
+previews/<locale>/index.html
 ```
+
+Locales: `en`, `es`, `fr`, `cs`, `sl`, `sv`.

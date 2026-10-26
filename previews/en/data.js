@@ -1,10 +1,10 @@
 // Block ID Mapping
-// Generated: 2026-10-23T22:47:44.583Z
+// Generated: 2026-10-26T03:02:46.102Z
 // Course: UAOA eLearning Course
 window.__BLOCK_ID_MAPPING__ = {
   "courseId": "428b8e0e-9238-4608-a1a3-962afd799ccf",
   "courseTitle": "UAOA eLearning Course",
-  "generatedAt": "2026-10-23T22:47:44.583Z",
+  "generatedAt": "2026-10-26T03:02:46.102Z",
   "version": "1.0",
   "blocks": {
     "b0": {
@@ -637,23 +637,6 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 3
     },
     "b37": {
-      "originalId": "06610abe-6caa-4416-81c2-eacd224be866",
-      "type": "embed",
-      "variant": "iframe",
-      "slideId": "s3",
-      "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
-      "slideIndex": 3,
-      "slideTitle": "Understanding Online Abuse"
-    },
-    "06610abe-6caa-4416-81c2-eacd224be866": {
-      "sequentialId": "b37",
-      "type": "embed",
-      "variant": "iframe",
-      "slideId": "s3",
-      "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
-      "slideIndex": 3
-    },
-    "b38": {
       "originalId": "38351945-1e35-4a15-b1d4-ac1ac8c0f739",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -663,14 +646,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "38351945-1e35-4a15-b1d4-ac1ac8c0f739": {
-      "sequentialId": "b38",
+      "sequentialId": "b37",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b39": {
+    "b38": {
       "originalId": "454cc055-0393-4286-a54f-63754e8c1afc",
       "type": "embed",
       "variant": "iframe",
@@ -680,14 +663,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "454cc055-0393-4286-a54f-63754e8c1afc": {
-      "sequentialId": "b39",
+      "sequentialId": "b38",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b40": {
+    "b39": {
       "originalId": "c6a024d2-40f4-4bb4-a518-9d34a6d84c19",
       "type": "embed",
       "variant": "iframe",
@@ -697,14 +680,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "c6a024d2-40f4-4bb4-a518-9d34a6d84c19": {
-      "sequentialId": "b40",
+      "sequentialId": "b39",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b41": {
+    "b40": {
       "originalId": "b39bd687-81eb-44c9-bb88-a6bb558ed39e",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -714,14 +697,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "b39bd687-81eb-44c9-bb88-a6bb558ed39e": {
-      "sequentialId": "b41",
+      "sequentialId": "b40",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b42": {
+    "b41": {
       "originalId": "1811e0ce-42b1-468b-8c9a-3651f3b5e726",
       "type": "embed",
       "variant": "iframe",
@@ -731,14 +714,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "1811e0ce-42b1-468b-8c9a-3651f3b5e726": {
-      "sequentialId": "b42",
+      "sequentialId": "b41",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b43": {
+    "b42": {
       "originalId": "5ba010d0-cea3-472b-86a0-375de1748ef8",
       "type": "embed",
       "variant": "iframe",
@@ -748,14 +731,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "5ba010d0-cea3-472b-86a0-375de1748ef8": {
-      "sequentialId": "b43",
+      "sequentialId": "b42",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b44": {
+    "b43": {
       "originalId": "e8cf89df-fac1-44af-8925-d8a0980c5639",
       "type": "embed",
       "variant": "iframe",
@@ -765,14 +748,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "e8cf89df-fac1-44af-8925-d8a0980c5639": {
-      "sequentialId": "b44",
+      "sequentialId": "b43",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b45": {
+    "b44": {
       "originalId": "dbee0bfa-4469-431a-9925-a82a48f9c75f",
       "type": "embed",
       "variant": "iframe",
@@ -782,14 +765,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "dbee0bfa-4469-431a-9925-a82a48f9c75f": {
-      "sequentialId": "b45",
+      "sequentialId": "b44",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b46": {
+    "b45": {
       "originalId": "85945e58-bfb5-4e88-a183-1d0cab7166ad",
       "type": "embed",
       "variant": "iframe",
@@ -799,14 +782,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "85945e58-bfb5-4e88-a183-1d0cab7166ad": {
-      "sequentialId": "b46",
+      "sequentialId": "b45",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b47": {
+    "b46": {
       "originalId": "6aba7e1d-ed6d-4bbb-b736-67e06051b22f",
       "type": "embed",
       "variant": "iframe",
@@ -816,14 +799,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "6aba7e1d-ed6d-4bbb-b736-67e06051b22f": {
-      "sequentialId": "b47",
+      "sequentialId": "b46",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b48": {
+    "b47": {
       "originalId": "3750afe7-3b40-4619-b75c-64050b870611",
       "type": "separator",
       "variant": "divider",
@@ -833,14 +816,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "3750afe7-3b40-4619-b75c-64050b870611": {
-      "sequentialId": "b48",
+      "sequentialId": "b47",
       "type": "separator",
       "variant": "divider",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b49": {
+    "b48": {
       "originalId": "314a1669-8144-47a7-b6df-b048a5192a59",
       "type": "embed",
       "variant": "iframe",
@@ -850,14 +833,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "314a1669-8144-47a7-b6df-b048a5192a59": {
-      "sequentialId": "b49",
+      "sequentialId": "b48",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b50": {
+    "b49": {
       "originalId": "547a51de-7682-46e1-88e0-0c6f5a8c9c54",
       "type": "navigation_button",
       "variant": "default",
@@ -867,14 +850,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Understanding Online Abuse"
     },
     "547a51de-7682-46e1-88e0-0c6f5a8c9c54": {
-      "sequentialId": "b50",
+      "sequentialId": "b49",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s3",
       "slideOriginalId": "4c2d5f1a-37dd-4f89-9410-75ee3dface2a",
       "slideIndex": 3
     },
-    "b51": {
+    "b50": {
       "originalId": "4c3e29ef-381e-44fc-a98b-e9be9ffece7f",
       "type": "slide_intro",
       "variant": "default",
@@ -884,14 +867,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "4c3e29ef-381e-44fc-a98b-e9be9ffece7f": {
-      "sequentialId": "b51",
+      "sequentialId": "b50",
       "type": "slide_intro",
       "variant": "default",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b52": {
+    "b51": {
       "originalId": "204e94f8-73ea-422a-b98e-a9a4ba990d2f",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -901,14 +884,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "204e94f8-73ea-422a-b98e-a9a4ba990d2f": {
-      "sequentialId": "b52",
+      "sequentialId": "b51",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b53": {
+    "b52": {
       "originalId": "71ea1d64-c2eb-437f-a00d-e265c92d5a1a",
       "type": "embed",
       "variant": "iframe",
@@ -918,14 +901,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "71ea1d64-c2eb-437f-a00d-e265c92d5a1a": {
-      "sequentialId": "b53",
+      "sequentialId": "b52",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b54": {
+    "b53": {
       "originalId": "d79f2375-e80f-41ab-980d-f582ce40501e",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -935,14 +918,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "d79f2375-e80f-41ab-980d-f582ce40501e": {
-      "sequentialId": "b54",
+      "sequentialId": "b53",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b55": {
+    "b54": {
       "originalId": "b3f22ef4-86c0-4d72-b4b3-d9e1ce992736",
       "type": "embed",
       "variant": "iframe",
@@ -952,14 +935,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "b3f22ef4-86c0-4d72-b4b3-d9e1ce992736": {
-      "sequentialId": "b55",
+      "sequentialId": "b54",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b56": {
+    "b55": {
       "originalId": "e958e871-7fda-4c77-9f1e-5ea56b6578c6",
       "type": "embed",
       "variant": "iframe",
@@ -969,14 +952,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "e958e871-7fda-4c77-9f1e-5ea56b6578c6": {
-      "sequentialId": "b56",
+      "sequentialId": "b55",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b57": {
+    "b56": {
       "originalId": "6c3acc3d-aec6-496f-b6ad-49c6445d48f0",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -986,14 +969,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "6c3acc3d-aec6-496f-b6ad-49c6445d48f0": {
-      "sequentialId": "b57",
+      "sequentialId": "b56",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b58": {
+    "b57": {
       "originalId": "579d7f76-a8fd-4981-990e-952f1cc9c68a",
       "type": "embed",
       "variant": "iframe",
@@ -1003,14 +986,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "579d7f76-a8fd-4981-990e-952f1cc9c68a": {
-      "sequentialId": "b58",
+      "sequentialId": "b57",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b59": {
+    "b58": {
       "originalId": "d35d208d-f9dd-475e-ad72-e3288337cd4a",
       "type": "embed",
       "variant": "iframe",
@@ -1020,14 +1003,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "d35d208d-f9dd-475e-ad72-e3288337cd4a": {
-      "sequentialId": "b59",
+      "sequentialId": "b58",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b60": {
+    "b59": {
       "originalId": "e816d5bd-488f-4ea6-8d85-8cfd00227d6c",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1037,14 +1020,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "e816d5bd-488f-4ea6-8d85-8cfd00227d6c": {
-      "sequentialId": "b60",
+      "sequentialId": "b59",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b61": {
+    "b60": {
       "originalId": "ee75bc2a-cc33-4fb6-8600-e6ba3ca7c1c4",
       "type": "embed",
       "variant": "iframe",
@@ -1054,14 +1037,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "ee75bc2a-cc33-4fb6-8600-e6ba3ca7c1c4": {
-      "sequentialId": "b61",
+      "sequentialId": "b60",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b62": {
+    "b61": {
       "originalId": "ba3b9d23-64d1-48ef-96c2-5947df46cb4f",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1071,14 +1054,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "ba3b9d23-64d1-48ef-96c2-5947df46cb4f": {
-      "sequentialId": "b62",
+      "sequentialId": "b61",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b63": {
+    "b62": {
       "originalId": "0c2d3ed9-c959-4dcf-94cf-0e3e5bd53e5d",
       "type": "image",
       "variant": "image_with_text",
@@ -1088,14 +1071,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "0c2d3ed9-c959-4dcf-94cf-0e3e5bd53e5d": {
-      "sequentialId": "b63",
+      "sequentialId": "b62",
       "type": "image",
       "variant": "image_with_text",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b64": {
+    "b63": {
       "originalId": "10defdbc-9f65-4689-9ef2-76a2cedd9fb7",
       "type": "embed",
       "variant": "iframe",
@@ -1105,14 +1088,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "10defdbc-9f65-4689-9ef2-76a2cedd9fb7": {
-      "sequentialId": "b64",
+      "sequentialId": "b63",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b65": {
+    "b64": {
       "originalId": "3494734c-2660-4c5b-b008-0a4da9682645",
       "type": "embed",
       "variant": "iframe",
@@ -1122,14 +1105,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "3494734c-2660-4c5b-b008-0a4da9682645": {
-      "sequentialId": "b65",
+      "sequentialId": "b64",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b66": {
+    "b65": {
       "originalId": "77a21d61-8c45-49b7-9dfb-d6ba152530c6",
       "type": "text",
       "variant": "paragraph",
@@ -1139,14 +1122,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "77a21d61-8c45-49b7-9dfb-d6ba152530c6": {
-      "sequentialId": "b66",
+      "sequentialId": "b65",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b67": {
+    "b66": {
       "originalId": "4c7c5e74-70da-4675-bfce-c0f0863505ce",
       "type": "embed",
       "variant": "iframe",
@@ -1156,14 +1139,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "4c7c5e74-70da-4675-bfce-c0f0863505ce": {
-      "sequentialId": "b67",
+      "sequentialId": "b66",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b68": {
+    "b67": {
       "originalId": "f7fe53b4-d5be-4e22-998d-05346f670d61",
       "type": "embed",
       "variant": "iframe",
@@ -1173,14 +1156,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "f7fe53b4-d5be-4e22-998d-05346f670d61": {
-      "sequentialId": "b68",
+      "sequentialId": "b67",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b69": {
+    "b68": {
       "originalId": "b4785181-25f0-4650-b6b0-920a6b1a0ea4",
       "type": "embed",
       "variant": "iframe",
@@ -1190,14 +1173,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "b4785181-25f0-4650-b6b0-920a6b1a0ea4": {
-      "sequentialId": "b69",
+      "sequentialId": "b68",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b70": {
+    "b69": {
       "originalId": "184fbd09-cbaf-4166-b421-58f31ccfd17b",
       "type": "navigation_button",
       "variant": "default",
@@ -1207,14 +1190,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Online Abuse in Sport: The Human Impact"
     },
     "184fbd09-cbaf-4166-b421-58f31ccfd17b": {
-      "sequentialId": "b70",
+      "sequentialId": "b69",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
     },
-    "b71": {
+    "b70": {
       "originalId": "24562169-6f5d-49da-ab47-da43a4167900",
       "type": "slide_intro",
       "variant": "default",
@@ -1224,14 +1207,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "24562169-6f5d-49da-ab47-da43a4167900": {
-      "sequentialId": "b71",
+      "sequentialId": "b70",
       "type": "slide_intro",
       "variant": "default",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b72": {
+    "b71": {
       "originalId": "3715b3e5-2a05-405e-98a0-769a3a2db762",
       "type": "text",
       "variant": "paragraph",
@@ -1241,14 +1224,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "3715b3e5-2a05-405e-98a0-769a3a2db762": {
-      "sequentialId": "b72",
+      "sequentialId": "b71",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b73": {
+    "b72": {
       "originalId": "2934a63b-7c2f-4ead-bc04-dca64cfa22d4",
       "type": "image",
       "variant": "image",
@@ -1258,14 +1241,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "2934a63b-7c2f-4ead-bc04-dca64cfa22d4": {
-      "sequentialId": "b73",
+      "sequentialId": "b72",
       "type": "image",
       "variant": "image",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b74": {
+    "b73": {
       "originalId": "167f9f43-8a15-4433-82cf-97952556e1ae",
       "type": "embed",
       "variant": "iframe",
@@ -1275,14 +1258,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "167f9f43-8a15-4433-82cf-97952556e1ae": {
-      "sequentialId": "b74",
+      "sequentialId": "b73",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b75": {
+    "b74": {
       "originalId": "62ad35dc-3931-466a-9858-ae9737346ef0",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1292,14 +1275,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "62ad35dc-3931-466a-9858-ae9737346ef0": {
-      "sequentialId": "b75",
+      "sequentialId": "b74",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b76": {
+    "b75": {
       "originalId": "498dee76-3bba-4187-89b5-7f620543c719",
       "type": "embed",
       "variant": "iframe",
@@ -1309,14 +1292,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "498dee76-3bba-4187-89b5-7f620543c719": {
-      "sequentialId": "b76",
+      "sequentialId": "b75",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b77": {
+    "b76": {
       "originalId": "949e635c-b44b-450a-9c2c-14da16622631",
       "type": "embed",
       "variant": "iframe",
@@ -1326,14 +1309,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "949e635c-b44b-450a-9c2c-14da16622631": {
-      "sequentialId": "b77",
+      "sequentialId": "b76",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b78": {
+    "b77": {
       "originalId": "9daf45b9-46d3-4e1e-b43a-5eb2ee1f65de",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1343,14 +1326,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "9daf45b9-46d3-4e1e-b43a-5eb2ee1f65de": {
-      "sequentialId": "b78",
+      "sequentialId": "b77",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b79": {
+    "b78": {
       "originalId": "213c8b0c-a69b-43dd-b498-5fdef63a64db",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1360,14 +1343,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "213c8b0c-a69b-43dd-b498-5fdef63a64db": {
-      "sequentialId": "b79",
+      "sequentialId": "b78",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b80": {
+    "b79": {
       "originalId": "7fc4b388-e992-433a-b87e-e54322857738",
       "type": "embed",
       "variant": "iframe",
@@ -1377,14 +1360,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "7fc4b388-e992-433a-b87e-e54322857738": {
-      "sequentialId": "b80",
+      "sequentialId": "b79",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b81": {
+    "b80": {
       "originalId": "e9371def-efcc-4910-8b3b-5a7fd4e4a621",
       "type": "embed",
       "variant": "iframe",
@@ -1394,14 +1377,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "e9371def-efcc-4910-8b3b-5a7fd4e4a621": {
-      "sequentialId": "b81",
+      "sequentialId": "b80",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b82": {
+    "b81": {
       "originalId": "1eb60186-c206-4a79-bb4f-6650c53df997",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1411,14 +1394,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "1eb60186-c206-4a79-bb4f-6650c53df997": {
-      "sequentialId": "b82",
+      "sequentialId": "b81",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b83": {
+    "b82": {
       "originalId": "92b4b895-ada1-4e03-993c-5aae285ff178",
       "type": "embed",
       "variant": "iframe",
@@ -1428,14 +1411,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "92b4b895-ada1-4e03-993c-5aae285ff178": {
-      "sequentialId": "b83",
+      "sequentialId": "b82",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b84": {
+    "b83": {
       "originalId": "33c74462-f03f-49a2-a800-692f36c94612",
       "type": "embed",
       "variant": "iframe",
@@ -1445,14 +1428,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "33c74462-f03f-49a2-a800-692f36c94612": {
-      "sequentialId": "b84",
+      "sequentialId": "b83",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b85": {
+    "b84": {
       "originalId": "ced6865e-c6b3-4b72-868e-a584e71d2307",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1462,14 +1445,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "ced6865e-c6b3-4b72-868e-a584e71d2307": {
-      "sequentialId": "b85",
+      "sequentialId": "b84",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b86": {
+    "b85": {
       "originalId": "72f48193-1f72-446a-ae20-875bb83fc9f1",
       "type": "embed",
       "variant": "iframe",
@@ -1479,14 +1462,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "72f48193-1f72-446a-ae20-875bb83fc9f1": {
-      "sequentialId": "b86",
+      "sequentialId": "b85",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b87": {
+    "b86": {
       "originalId": "518d413c-6306-4be1-a3af-ad28c69e4f2d",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1496,14 +1479,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "518d413c-6306-4be1-a3af-ad28c69e4f2d": {
-      "sequentialId": "b87",
+      "sequentialId": "b86",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b88": {
+    "b87": {
       "originalId": "dc471386-ef83-4dbd-82f9-19c2c6b8da08",
       "type": "embed",
       "variant": "iframe",
@@ -1513,14 +1496,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "dc471386-ef83-4dbd-82f9-19c2c6b8da08": {
-      "sequentialId": "b88",
+      "sequentialId": "b87",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b89": {
+    "b88": {
       "originalId": "3e549f41-1070-4472-95bd-c4eb857707bf",
       "type": "text",
       "variant": "paragraph",
@@ -1530,14 +1513,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "3e549f41-1070-4472-95bd-c4eb857707bf": {
-      "sequentialId": "b89",
+      "sequentialId": "b88",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b90": {
+    "b89": {
       "originalId": "5794e018-c2c5-4bd4-9e7b-bf0c7442f764",
       "type": "embed",
       "variant": "iframe",
@@ -1547,14 +1530,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "5794e018-c2c5-4bd4-9e7b-bf0c7442f764": {
-      "sequentialId": "b90",
+      "sequentialId": "b89",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b91": {
+    "b90": {
       "originalId": "0027f110-3d45-4ba8-b3e0-77192bf1de2e",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1564,14 +1547,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "0027f110-3d45-4ba8-b3e0-77192bf1de2e": {
-      "sequentialId": "b91",
+      "sequentialId": "b90",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b92": {
+    "b91": {
       "originalId": "ddb9cf71-a381-493f-9a78-e4c282a987ae",
       "type": "embed",
       "variant": "iframe",
@@ -1581,14 +1564,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "ddb9cf71-a381-493f-9a78-e4c282a987ae": {
-      "sequentialId": "b92",
+      "sequentialId": "b91",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b93": {
+    "b92": {
       "originalId": "e2954288-272d-4eac-a77f-b8cd5ee032e6",
       "type": "separator",
       "variant": "divider",
@@ -1598,14 +1581,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "e2954288-272d-4eac-a77f-b8cd5ee032e6": {
-      "sequentialId": "b93",
+      "sequentialId": "b92",
       "type": "separator",
       "variant": "divider",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b94": {
+    "b93": {
       "originalId": "2789019e-8ac4-4666-aba0-676c87e6356c",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1615,14 +1598,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "2789019e-8ac4-4666-aba0-676c87e6356c": {
-      "sequentialId": "b94",
+      "sequentialId": "b93",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b95": {
+    "b94": {
       "originalId": "ede8ccec-ead3-4fae-8c08-86f3a36b1e51",
       "type": "image",
       "variant": "image",
@@ -1632,14 +1615,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "ede8ccec-ead3-4fae-8c08-86f3a36b1e51": {
-      "sequentialId": "b95",
+      "sequentialId": "b94",
       "type": "image",
       "variant": "image",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b96": {
+    "b95": {
       "originalId": "ff2440a1-98e7-4b0a-b195-fad30954e012",
       "type": "embed",
       "variant": "iframe",
@@ -1649,14 +1632,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "ff2440a1-98e7-4b0a-b195-fad30954e012": {
-      "sequentialId": "b96",
+      "sequentialId": "b95",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b97": {
+    "b96": {
       "originalId": "aaca5375-45de-45b0-9b38-bbea4dd53a55",
       "type": "embed",
       "variant": "iframe",
@@ -1666,14 +1649,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "aaca5375-45de-45b0-9b38-bbea4dd53a55": {
-      "sequentialId": "b97",
+      "sequentialId": "b96",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b98": {
+    "b97": {
       "originalId": "dee5bd1a-5300-4a5b-913d-3a35d2869cc4",
       "type": "embed",
       "variant": "iframe",
@@ -1683,14 +1666,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "dee5bd1a-5300-4a5b-913d-3a35d2869cc4": {
-      "sequentialId": "b98",
+      "sequentialId": "b97",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b99": {
+    "b98": {
       "originalId": "4836a2bc-14f6-4d38-aeca-b3873f40136d",
       "type": "separator",
       "variant": "divider",
@@ -1700,14 +1683,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "4836a2bc-14f6-4d38-aeca-b3873f40136d": {
-      "sequentialId": "b99",
+      "sequentialId": "b98",
       "type": "separator",
       "variant": "divider",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b100": {
+    "b99": {
       "originalId": "73eb5902-26d3-4de8-9f00-47e03f149c95",
       "type": "embed",
       "variant": "iframe",
@@ -1717,14 +1700,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "73eb5902-26d3-4de8-9f00-47e03f149c95": {
-      "sequentialId": "b100",
+      "sequentialId": "b99",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b101": {
+    "b100": {
       "originalId": "dd89adc5-62d5-4461-9390-c64e79953cbc",
       "type": "embed",
       "variant": "iframe",
@@ -1734,14 +1717,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "dd89adc5-62d5-4461-9390-c64e79953cbc": {
-      "sequentialId": "b101",
+      "sequentialId": "b100",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b102": {
+    "b101": {
       "originalId": "a2a85cc0-e0d1-4c81-a2d5-4f9e37940c85",
       "type": "embed",
       "variant": "iframe",
@@ -1751,14 +1734,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "a2a85cc0-e0d1-4c81-a2d5-4f9e37940c85": {
-      "sequentialId": "b102",
+      "sequentialId": "b101",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b103": {
+    "b102": {
       "originalId": "b2f89b5a-6206-4577-b430-029e83e5718d",
       "type": "navigation_button",
       "variant": "default",
@@ -1768,14 +1751,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "b2f89b5a-6206-4577-b430-029e83e5718d": {
-      "sequentialId": "b103",
+      "sequentialId": "b102",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b104": {
+    "b103": {
       "originalId": "188f7396-1f4c-42c0-a6e5-691f4d3948f9",
       "type": "slide_intro",
       "variant": "default",
@@ -1785,14 +1768,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "188f7396-1f4c-42c0-a6e5-691f4d3948f9": {
-      "sequentialId": "b104",
+      "sequentialId": "b103",
       "type": "slide_intro",
       "variant": "default",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b105": {
+    "b104": {
       "originalId": "2a9e14ab-16ac-4535-994f-2bca1f96eb18",
       "type": "text",
       "variant": "paragraph",
@@ -1802,14 +1785,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "2a9e14ab-16ac-4535-994f-2bca1f96eb18": {
-      "sequentialId": "b105",
+      "sequentialId": "b104",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b106": {
+    "b105": {
       "originalId": "be64258c-3d49-4331-aeb8-7f1ef2ef4ac5",
       "type": "callout",
       "variant": "default",
@@ -1819,14 +1802,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "be64258c-3d49-4331-aeb8-7f1ef2ef4ac5": {
-      "sequentialId": "b106",
+      "sequentialId": "b105",
       "type": "callout",
       "variant": "default",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b107": {
+    "b106": {
       "originalId": "55dfd858-c675-4ba1-8e4a-62cb6bd46953",
       "type": "embed",
       "variant": "iframe",
@@ -1836,14 +1819,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "55dfd858-c675-4ba1-8e4a-62cb6bd46953": {
-      "sequentialId": "b107",
+      "sequentialId": "b106",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b108": {
+    "b107": {
       "originalId": "9160fd4a-059f-45be-b2e0-3c59335f3b78",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1853,14 +1836,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "9160fd4a-059f-45be-b2e0-3c59335f3b78": {
-      "sequentialId": "b108",
+      "sequentialId": "b107",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b109": {
+    "b108": {
       "originalId": "f19c3ffe-fedb-4001-bfa1-d110d3798956",
       "type": "embed",
       "variant": "iframe",
@@ -1870,14 +1853,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "f19c3ffe-fedb-4001-bfa1-d110d3798956": {
-      "sequentialId": "b109",
+      "sequentialId": "b108",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b110": {
+    "b109": {
       "originalId": "d9f636f9-659e-4c83-b216-c5a5a6b6771e",
       "type": "embed",
       "variant": "iframe",
@@ -1887,14 +1870,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "d9f636f9-659e-4c83-b216-c5a5a6b6771e": {
-      "sequentialId": "b110",
+      "sequentialId": "b109",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b111": {
+    "b110": {
       "originalId": "51c79a90-86ba-4e45-a4a5-71711703ac95",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1904,14 +1887,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "51c79a90-86ba-4e45-a4a5-71711703ac95": {
-      "sequentialId": "b111",
+      "sequentialId": "b110",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b112": {
+    "b111": {
       "originalId": "2473018b-2e66-4e0c-b4ea-138cb3254855",
       "type": "embed",
       "variant": "iframe",
@@ -1921,14 +1904,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "2473018b-2e66-4e0c-b4ea-138cb3254855": {
-      "sequentialId": "b112",
+      "sequentialId": "b111",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b113": {
+    "b112": {
       "originalId": "7844e866-62fe-4d83-a375-25087d15f11f",
       "type": "embed",
       "variant": "iframe",
@@ -1938,14 +1921,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "7844e866-62fe-4d83-a375-25087d15f11f": {
-      "sequentialId": "b113",
+      "sequentialId": "b112",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b114": {
+    "b113": {
       "originalId": "e9296c67-a321-45df-b36d-d774e11e88d9",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1955,14 +1938,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "e9296c67-a321-45df-b36d-d774e11e88d9": {
-      "sequentialId": "b114",
+      "sequentialId": "b113",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b115": {
+    "b114": {
       "originalId": "ebc31548-720c-480a-b25d-e6c8546ecbd6",
       "type": "separator",
       "variant": "divider",
@@ -1972,14 +1955,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "ebc31548-720c-480a-b25d-e6c8546ecbd6": {
-      "sequentialId": "b115",
+      "sequentialId": "b114",
       "type": "separator",
       "variant": "divider",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b116": {
+    "b115": {
       "originalId": "46eb406f-1e97-49cc-b1f7-f88f3d7668ea",
       "type": "text",
       "variant": "two_columns_grid",
@@ -1989,14 +1972,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "46eb406f-1e97-49cc-b1f7-f88f3d7668ea": {
-      "sequentialId": "b116",
+      "sequentialId": "b115",
       "type": "text",
       "variant": "two_columns_grid",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b117": {
+    "b116": {
       "originalId": "2d86d248-02de-4f7a-bec3-24767b3e241a",
       "type": "separator",
       "variant": "divider",
@@ -2006,14 +1989,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "2d86d248-02de-4f7a-bec3-24767b3e241a": {
-      "sequentialId": "b117",
+      "sequentialId": "b116",
       "type": "separator",
       "variant": "divider",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b118": {
+    "b117": {
       "originalId": "dcf32aca-8604-4f61-a17c-cce46e740935",
       "type": "text",
       "variant": "paragraph",
@@ -2023,14 +2006,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "dcf32aca-8604-4f61-a17c-cce46e740935": {
-      "sequentialId": "b118",
+      "sequentialId": "b117",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b119": {
+    "b118": {
       "originalId": "dab9caa5-216b-48e3-99ac-753c1923e171",
       "type": "embed",
       "variant": "iframe",
@@ -2040,14 +2023,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "dab9caa5-216b-48e3-99ac-753c1923e171": {
-      "sequentialId": "b119",
+      "sequentialId": "b118",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b120": {
+    "b119": {
       "originalId": "9b96bcb7-fec0-4ba7-acf2-ce756bf976bd",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -2057,14 +2040,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "9b96bcb7-fec0-4ba7-acf2-ce756bf976bd": {
-      "sequentialId": "b120",
+      "sequentialId": "b119",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b121": {
+    "b120": {
       "originalId": "7b38d992-29f4-436b-bd4b-9688ad8cf64d",
       "type": "embed",
       "variant": "iframe",
@@ -2074,14 +2057,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "7b38d992-29f4-436b-bd4b-9688ad8cf64d": {
-      "sequentialId": "b121",
+      "sequentialId": "b120",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b122": {
+    "b121": {
       "originalId": "970836fb-f96a-40ed-8490-b8b9aa7f5cd6",
       "type": "embed",
       "variant": "iframe",
@@ -2091,14 +2074,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "970836fb-f96a-40ed-8490-b8b9aa7f5cd6": {
-      "sequentialId": "b122",
+      "sequentialId": "b121",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b123": {
+    "b122": {
       "originalId": "21b2a023-bcca-42b5-a618-ecd8bb698c2a",
       "type": "embed",
       "variant": "iframe",
@@ -2108,14 +2091,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "21b2a023-bcca-42b5-a618-ecd8bb698c2a": {
-      "sequentialId": "b123",
+      "sequentialId": "b122",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b124": {
+    "b123": {
       "originalId": "27a651af-8f20-4ef6-bb85-17fa47718cc3",
       "type": "text",
       "variant": "paragraph",
@@ -2125,14 +2108,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "27a651af-8f20-4ef6-bb85-17fa47718cc3": {
-      "sequentialId": "b124",
+      "sequentialId": "b123",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b125": {
+    "b124": {
       "originalId": "5bf476e3-9809-4c61-8ea9-2a028cff5743",
       "type": "embed",
       "variant": "iframe",
@@ -2142,14 +2125,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "5bf476e3-9809-4c61-8ea9-2a028cff5743": {
-      "sequentialId": "b125",
+      "sequentialId": "b124",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b126": {
+    "b125": {
       "originalId": "9c8ccc18-522c-45be-9483-346f46def80a",
       "type": "embed",
       "variant": "iframe",
@@ -2159,14 +2142,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "9c8ccc18-522c-45be-9483-346f46def80a": {
-      "sequentialId": "b126",
+      "sequentialId": "b125",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b127": {
+    "b126": {
       "originalId": "1e90bf1d-108e-419b-883f-2f71c190a030",
       "type": "embed",
       "variant": "iframe",
@@ -2176,14 +2159,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "1e90bf1d-108e-419b-883f-2f71c190a030": {
-      "sequentialId": "b127",
+      "sequentialId": "b126",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b128": {
+    "b127": {
       "originalId": "ad9306ab-9174-48f7-994e-01099da7f06c",
       "type": "navigation_button",
       "variant": "default",
@@ -2193,14 +2176,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
     "ad9306ab-9174-48f7-994e-01099da7f06c": {
-      "sequentialId": "b128",
+      "sequentialId": "b127",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
     },
-    "b129": {
+    "b128": {
       "originalId": "e5b83125-71e0-429f-8425-69ab80308911",
       "type": "slide_intro",
       "variant": "default",
@@ -2210,14 +2193,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "e5b83125-71e0-429f-8425-69ab80308911": {
-      "sequentialId": "b129",
+      "sequentialId": "b128",
       "type": "slide_intro",
       "variant": "default",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b130": {
+    "b129": {
       "originalId": "c6ee9c0e-7881-499a-a94a-afcda5d70c67",
       "type": "text",
       "variant": "paragraph",
@@ -2227,14 +2210,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "c6ee9c0e-7881-499a-a94a-afcda5d70c67": {
-      "sequentialId": "b130",
+      "sequentialId": "b129",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b131": {
+    "b130": {
       "originalId": "a3aa642f-3d55-4179-8d44-9f83e4e640e4",
       "type": "text",
       "variant": "subheading",
@@ -2244,14 +2227,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "a3aa642f-3d55-4179-8d44-9f83e4e640e4": {
-      "sequentialId": "b131",
+      "sequentialId": "b130",
       "type": "text",
       "variant": "subheading",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b132": {
+    "b131": {
       "originalId": "a6b3b4da-5fc6-4114-a50d-742909a10b74",
       "type": "embed",
       "variant": "iframe",
@@ -2261,14 +2244,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "a6b3b4da-5fc6-4114-a50d-742909a10b74": {
-      "sequentialId": "b132",
+      "sequentialId": "b131",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b133": {
+    "b132": {
       "originalId": "4d2979c3-6232-4e1a-8312-413e163ed15a",
       "type": "embed",
       "variant": "iframe",
@@ -2278,14 +2261,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "4d2979c3-6232-4e1a-8312-413e163ed15a": {
-      "sequentialId": "b133",
+      "sequentialId": "b132",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b134": {
+    "b133": {
       "originalId": "04a78ea6-7c3a-4559-87e8-702b6c003373",
       "type": "separator",
       "variant": "divider",
@@ -2295,14 +2278,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "04a78ea6-7c3a-4559-87e8-702b6c003373": {
-      "sequentialId": "b134",
+      "sequentialId": "b133",
       "type": "separator",
       "variant": "divider",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b135": {
+    "b134": {
       "originalId": "27bc03b6-58d6-4ac3-9df8-1d50ea42d1cd",
       "type": "embed",
       "variant": "iframe",
@@ -2312,14 +2295,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "27bc03b6-58d6-4ac3-9df8-1d50ea42d1cd": {
-      "sequentialId": "b135",
+      "sequentialId": "b134",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b136": {
+    "b135": {
       "originalId": "945cf6c0-d3a6-45a6-a78c-07e9a77610ba",
       "type": "text",
       "variant": "paragraph",
@@ -2329,14 +2312,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "945cf6c0-d3a6-45a6-a78c-07e9a77610ba": {
-      "sequentialId": "b136",
+      "sequentialId": "b135",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b137": {
+    "b136": {
       "originalId": "498c0d42-c2d9-4bc5-b2c4-3455476cbed3",
       "type": "embed",
       "variant": "iframe",
@@ -2346,14 +2329,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "498c0d42-c2d9-4bc5-b2c4-3455476cbed3": {
-      "sequentialId": "b137",
+      "sequentialId": "b136",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b138": {
+    "b137": {
       "originalId": "924119b1-4b16-41eb-ae3c-ec19881bb16d",
       "type": "embed",
       "variant": "iframe",
@@ -2363,14 +2346,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "924119b1-4b16-41eb-ae3c-ec19881bb16d": {
-      "sequentialId": "b138",
+      "sequentialId": "b137",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b139": {
+    "b138": {
       "originalId": "f2abcf6c-4ac1-487a-9b00-129a840dfbfa",
       "type": "embed",
       "variant": "iframe",
@@ -2380,14 +2363,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "f2abcf6c-4ac1-487a-9b00-129a840dfbfa": {
-      "sequentialId": "b139",
+      "sequentialId": "b138",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b140": {
+    "b139": {
       "originalId": "71570d11-57b9-471e-bcce-c094e3a62a84",
       "type": "embed",
       "variant": "iframe",
@@ -2397,14 +2380,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "71570d11-57b9-471e-bcce-c094e3a62a84": {
-      "sequentialId": "b140",
+      "sequentialId": "b139",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b141": {
+    "b140": {
       "originalId": "beccba3a-072f-4dd2-bbc0-b37bda8fcacf",
       "type": "text",
       "variant": "subheading",
@@ -2414,14 +2397,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "beccba3a-072f-4dd2-bbc0-b37bda8fcacf": {
-      "sequentialId": "b141",
+      "sequentialId": "b140",
       "type": "text",
       "variant": "subheading",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b142": {
+    "b141": {
       "originalId": "e0fd8376-e731-4315-8a25-0288ab4e7d5b",
       "type": "embed",
       "variant": "iframe",
@@ -2431,14 +2414,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "e0fd8376-e731-4315-8a25-0288ab4e7d5b": {
-      "sequentialId": "b142",
+      "sequentialId": "b141",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b143": {
+    "b142": {
       "originalId": "c7738405-df7b-4871-9c75-3fb877975a8a",
       "type": "text",
       "variant": "subheading",
@@ -2448,14 +2431,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "c7738405-df7b-4871-9c75-3fb877975a8a": {
-      "sequentialId": "b143",
+      "sequentialId": "b142",
       "type": "text",
       "variant": "subheading",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b144": {
+    "b143": {
       "originalId": "f1be5883-448d-4719-991a-6ec1f4261ab3",
       "type": "image",
       "variant": "image_with_text",
@@ -2465,14 +2448,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "f1be5883-448d-4719-991a-6ec1f4261ab3": {
-      "sequentialId": "b144",
+      "sequentialId": "b143",
       "type": "image",
       "variant": "image_with_text",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b145": {
+    "b144": {
       "originalId": "83081c1d-1fd0-49a2-b39f-99cee5f49dd1",
       "type": "navigation_button",
       "variant": "default",
@@ -2482,14 +2465,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Take Action: Building Safer Digital Sport Communities"
     },
     "83081c1d-1fd0-49a2-b39f-99cee5f49dd1": {
-      "sequentialId": "b145",
+      "sequentialId": "b144",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s7",
       "slideOriginalId": "e0eab6ca-b4df-4308-a725-19a2c232272b",
       "slideIndex": 7
     },
-    "b146": {
+    "b145": {
       "originalId": "54f77737-f50d-45c7-bb2e-9dd1caba78f0",
       "type": "text",
       "variant": "heading",
@@ -2499,14 +2482,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Final Quiz"
     },
     "54f77737-f50d-45c7-bb2e-9dd1caba78f0": {
-      "sequentialId": "b146",
+      "sequentialId": "b145",
       "type": "text",
       "variant": "heading",
       "slideId": "s8",
       "slideOriginalId": "d4f62e1d-6153-42a0-893d-a2433efb98fe",
       "slideIndex": 8
     },
-    "b147": {
+    "b146": {
       "originalId": "64b7bd9e-8e96-419f-bb2c-bbdd32974622",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -2516,14 +2499,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Final Quiz"
     },
     "64b7bd9e-8e96-419f-bb2c-bbdd32974622": {
-      "sequentialId": "b147",
+      "sequentialId": "b146",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s8",
       "slideOriginalId": "d4f62e1d-6153-42a0-893d-a2433efb98fe",
       "slideIndex": 8
     },
-    "b148": {
+    "b147": {
       "originalId": "85763a9a-8914-4ee0-b121-9be20ebabf8e",
       "type": "embed",
       "variant": "iframe",
@@ -2533,14 +2516,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Final Quiz"
     },
     "85763a9a-8914-4ee0-b121-9be20ebabf8e": {
-      "sequentialId": "b148",
+      "sequentialId": "b147",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s8",
       "slideOriginalId": "d4f62e1d-6153-42a0-893d-a2433efb98fe",
       "slideIndex": 8
     },
-    "b149": {
+    "b148": {
       "originalId": "e54a0c75-16cf-4018-beda-c4d95650a46e",
       "type": "navigation_button",
       "variant": "default",
@@ -2550,14 +2533,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Final Quiz"
     },
     "e54a0c75-16cf-4018-beda-c4d95650a46e": {
-      "sequentialId": "b149",
+      "sequentialId": "b148",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s8",
       "slideOriginalId": "d4f62e1d-6153-42a0-893d-a2433efb98fe",
       "slideIndex": 8
     },
-    "b150": {
+    "b149": {
       "originalId": "9b982c3c-42ca-4a98-82c8-3e9fc55f51ff",
       "type": "embed",
       "variant": "iframe",
@@ -2567,14 +2550,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Post-course Survey"
     },
     "9b982c3c-42ca-4a98-82c8-3e9fc55f51ff": {
-      "sequentialId": "b150",
+      "sequentialId": "b149",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s9",
       "slideOriginalId": "ff1b2975-4e6e-44d3-85d6-74c61a9cbb51",
       "slideIndex": 9
     },
-    "b151": {
+    "b150": {
       "originalId": "e35d5660-d3c1-43f2-89c1-5eaa5feb92df",
       "type": "navigation_button",
       "variant": "default",
@@ -2584,14 +2567,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Post-course Survey"
     },
     "e35d5660-d3c1-43f2-89c1-5eaa5feb92df": {
-      "sequentialId": "b151",
+      "sequentialId": "b150",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s9",
       "slideOriginalId": "ff1b2975-4e6e-44d3-85d6-74c61a9cbb51",
       "slideIndex": 9
     },
-    "b152": {
+    "b151": {
       "originalId": "c582eb1d-a822-4964-9c79-b2b273b91411",
       "type": "text",
       "variant": "paragraph",
@@ -2601,14 +2584,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Exit Page"
     },
     "c582eb1d-a822-4964-9c79-b2b273b91411": {
-      "sequentialId": "b152",
+      "sequentialId": "b151",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s10",
       "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
       "slideIndex": 10
     },
-    "b153": {
+    "b152": {
       "originalId": "eb1d20d5-a15b-4706-9abd-665cf0cf3707",
       "type": "text",
       "variant": "subheading",
@@ -2618,14 +2601,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Exit Page"
     },
     "eb1d20d5-a15b-4706-9abd-665cf0cf3707": {
-      "sequentialId": "b153",
+      "sequentialId": "b152",
       "type": "text",
       "variant": "subheading",
       "slideId": "s10",
       "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
       "slideIndex": 10
     },
-    "b154": {
+    "b153": {
       "originalId": "92047b55-0eed-4599-980b-cc9cce7129dd",
       "type": "text",
       "variant": "paragraph",
@@ -2635,14 +2618,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Exit Page"
     },
     "92047b55-0eed-4599-980b-cc9cce7129dd": {
-      "sequentialId": "b154",
+      "sequentialId": "b153",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s10",
       "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
       "slideIndex": 10
     },
-    "b155": {
+    "b154": {
       "originalId": "80cec72b-5f2d-43a3-a077-acee929d18c6",
       "type": "navigation_button",
       "variant": "default",
@@ -2652,7 +2635,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Exit Page"
     },
     "80cec72b-5f2d-43a3-a077-acee929d18c6": {
-      "sequentialId": "b155",
+      "sequentialId": "b154",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s10",
@@ -2751,8 +2734,7 @@ window.__BLOCK_ID_MAPPING__ = {
         "b46",
         "b47",
         "b48",
-        "b49",
-        "b50"
+        "b49"
       ]
     },
     "4c2d5f1a-37dd-4f89-9410-75ee3dface2a": {
@@ -2765,6 +2747,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Online Abuse in Sport: The Human Impact",
       "index": 4,
       "blockIds": [
+        "b50",
         "b51",
         "b52",
         "b53",
@@ -2783,8 +2766,7 @@ window.__BLOCK_ID_MAPPING__ = {
         "b66",
         "b67",
         "b68",
-        "b69",
-        "b70"
+        "b69"
       ]
     },
     "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4": {
@@ -2797,6 +2779,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "How Online Harm Spreads",
       "index": 5,
       "blockIds": [
+        "b70",
         "b71",
         "b72",
         "b73",
@@ -2828,8 +2811,7 @@ window.__BLOCK_ID_MAPPING__ = {
         "b99",
         "b100",
         "b101",
-        "b102",
-        "b103"
+        "b102"
       ]
     },
     "69085f32-b529-456b-bef0-6ceae5b34c1d": {
@@ -2842,6 +2824,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Knowing Your Rights and Responsibilities",
       "index": 6,
       "blockIds": [
+        "b103",
         "b104",
         "b105",
         "b106",
@@ -2865,8 +2848,7 @@ window.__BLOCK_ID_MAPPING__ = {
         "b124",
         "b125",
         "b126",
-        "b127",
-        "b128"
+        "b127"
       ]
     },
     "63c299a3-9125-4dae-9126-8417d7c6dd50": {
@@ -2879,6 +2861,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Take Action: Building Safer Digital Sport Communities",
       "index": 7,
       "blockIds": [
+        "b128",
         "b129",
         "b130",
         "b131",
@@ -2894,8 +2877,7 @@ window.__BLOCK_ID_MAPPING__ = {
         "b141",
         "b142",
         "b143",
-        "b144",
-        "b145"
+        "b144"
       ]
     },
     "e0eab6ca-b4df-4308-a725-19a2c232272b": {
@@ -2908,10 +2890,10 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Final Quiz",
       "index": 8,
       "blockIds": [
+        "b145",
         "b146",
         "b147",
-        "b148",
-        "b149"
+        "b148"
       ]
     },
     "d4f62e1d-6153-42a0-893d-a2433efb98fe": {
@@ -2924,8 +2906,8 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Post-course Survey",
       "index": 9,
       "blockIds": [
-        "b150",
-        "b151"
+        "b149",
+        "b150"
       ]
     },
     "ff1b2975-4e6e-44d3-85d6-74c61a9cbb51": {
@@ -2938,10 +2920,10 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Exit Page",
       "index": 10,
       "blockIds": [
+        "b151",
         "b152",
         "b153",
-        "b154",
-        "b155"
+        "b154"
       ]
     },
     "bdeace05-2d09-4056-8283-face7b8365e0": {
@@ -3168,71 +3150,66 @@ window.__BLOCK_ID_MAPPING__ = {
         },
         {
           "id": "b37",
-          "originalId": "06610abe-6caa-4416-81c2-eacd224be866",
-          "type": "embed"
-        },
-        {
-          "id": "b38",
           "originalId": "38351945-1e35-4a15-b1d4-ac1ac8c0f739",
           "type": "text"
         },
         {
-          "id": "b39",
+          "id": "b38",
           "originalId": "454cc055-0393-4286-a54f-63754e8c1afc",
           "type": "embed"
         },
         {
-          "id": "b40",
+          "id": "b39",
           "originalId": "c6a024d2-40f4-4bb4-a518-9d34a6d84c19",
           "type": "embed"
         },
         {
-          "id": "b41",
+          "id": "b40",
           "originalId": "b39bd687-81eb-44c9-bb88-a6bb558ed39e",
           "type": "text"
         },
         {
-          "id": "b42",
+          "id": "b41",
           "originalId": "1811e0ce-42b1-468b-8c9a-3651f3b5e726",
           "type": "embed"
         },
         {
-          "id": "b43",
+          "id": "b42",
           "originalId": "5ba010d0-cea3-472b-86a0-375de1748ef8",
           "type": "embed"
         },
         {
-          "id": "b44",
+          "id": "b43",
           "originalId": "e8cf89df-fac1-44af-8925-d8a0980c5639",
           "type": "embed"
         },
         {
-          "id": "b45",
+          "id": "b44",
           "originalId": "dbee0bfa-4469-431a-9925-a82a48f9c75f",
           "type": "embed"
         },
         {
-          "id": "b46",
+          "id": "b45",
           "originalId": "85945e58-bfb5-4e88-a183-1d0cab7166ad",
           "type": "embed"
         },
         {
-          "id": "b47",
+          "id": "b46",
           "originalId": "6aba7e1d-ed6d-4bbb-b736-67e06051b22f",
           "type": "embed"
         },
         {
-          "id": "b48",
+          "id": "b47",
           "originalId": "3750afe7-3b40-4619-b75c-64050b870611",
           "type": "separator"
         },
         {
-          "id": "b49",
+          "id": "b48",
           "originalId": "314a1669-8144-47a7-b6df-b048a5192a59",
           "type": "embed"
         },
         {
-          "id": "b50",
+          "id": "b49",
           "originalId": "547a51de-7682-46e1-88e0-0c6f5a8c9c54",
           "type": "navigation_button"
         }
@@ -3245,102 +3222,102 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 4,
       "blocks": [
         {
-          "id": "b51",
+          "id": "b50",
           "originalId": "4c3e29ef-381e-44fc-a98b-e9be9ffece7f",
           "type": "slide_intro"
         },
         {
-          "id": "b52",
+          "id": "b51",
           "originalId": "204e94f8-73ea-422a-b98e-a9a4ba990d2f",
           "type": "text"
         },
         {
-          "id": "b53",
+          "id": "b52",
           "originalId": "71ea1d64-c2eb-437f-a00d-e265c92d5a1a",
           "type": "embed"
         },
         {
-          "id": "b54",
+          "id": "b53",
           "originalId": "d79f2375-e80f-41ab-980d-f582ce40501e",
           "type": "text"
         },
         {
-          "id": "b55",
+          "id": "b54",
           "originalId": "b3f22ef4-86c0-4d72-b4b3-d9e1ce992736",
           "type": "embed"
         },
         {
-          "id": "b56",
+          "id": "b55",
           "originalId": "e958e871-7fda-4c77-9f1e-5ea56b6578c6",
           "type": "embed"
         },
         {
-          "id": "b57",
+          "id": "b56",
           "originalId": "6c3acc3d-aec6-496f-b6ad-49c6445d48f0",
           "type": "text"
         },
         {
-          "id": "b58",
+          "id": "b57",
           "originalId": "579d7f76-a8fd-4981-990e-952f1cc9c68a",
           "type": "embed"
         },
         {
-          "id": "b59",
+          "id": "b58",
           "originalId": "d35d208d-f9dd-475e-ad72-e3288337cd4a",
           "type": "embed"
         },
         {
-          "id": "b60",
+          "id": "b59",
           "originalId": "e816d5bd-488f-4ea6-8d85-8cfd00227d6c",
           "type": "text"
         },
         {
-          "id": "b61",
+          "id": "b60",
           "originalId": "ee75bc2a-cc33-4fb6-8600-e6ba3ca7c1c4",
           "type": "embed"
         },
         {
-          "id": "b62",
+          "id": "b61",
           "originalId": "ba3b9d23-64d1-48ef-96c2-5947df46cb4f",
           "type": "text"
         },
         {
-          "id": "b63",
+          "id": "b62",
           "originalId": "0c2d3ed9-c959-4dcf-94cf-0e3e5bd53e5d",
           "type": "image"
         },
         {
-          "id": "b64",
+          "id": "b63",
           "originalId": "10defdbc-9f65-4689-9ef2-76a2cedd9fb7",
           "type": "embed"
         },
         {
-          "id": "b65",
+          "id": "b64",
           "originalId": "3494734c-2660-4c5b-b008-0a4da9682645",
           "type": "embed"
         },
         {
-          "id": "b66",
+          "id": "b65",
           "originalId": "77a21d61-8c45-49b7-9dfb-d6ba152530c6",
           "type": "text"
         },
         {
-          "id": "b67",
+          "id": "b66",
           "originalId": "4c7c5e74-70da-4675-bfce-c0f0863505ce",
           "type": "embed"
         },
         {
-          "id": "b68",
+          "id": "b67",
           "originalId": "f7fe53b4-d5be-4e22-998d-05346f670d61",
           "type": "embed"
         },
         {
-          "id": "b69",
+          "id": "b68",
           "originalId": "b4785181-25f0-4650-b6b0-920a6b1a0ea4",
           "type": "embed"
         },
         {
-          "id": "b70",
+          "id": "b69",
           "originalId": "184fbd09-cbaf-4166-b421-58f31ccfd17b",
           "type": "navigation_button"
         }
@@ -3353,167 +3330,167 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 5,
       "blocks": [
         {
-          "id": "b71",
+          "id": "b70",
           "originalId": "24562169-6f5d-49da-ab47-da43a4167900",
           "type": "slide_intro"
         },
         {
-          "id": "b72",
+          "id": "b71",
           "originalId": "3715b3e5-2a05-405e-98a0-769a3a2db762",
           "type": "text"
         },
         {
-          "id": "b73",
+          "id": "b72",
           "originalId": "2934a63b-7c2f-4ead-bc04-dca64cfa22d4",
           "type": "image"
         },
         {
-          "id": "b74",
+          "id": "b73",
           "originalId": "167f9f43-8a15-4433-82cf-97952556e1ae",
           "type": "embed"
         },
         {
-          "id": "b75",
+          "id": "b74",
           "originalId": "62ad35dc-3931-466a-9858-ae9737346ef0",
           "type": "text"
         },
         {
-          "id": "b76",
+          "id": "b75",
           "originalId": "498dee76-3bba-4187-89b5-7f620543c719",
           "type": "embed"
         },
         {
-          "id": "b77",
+          "id": "b76",
           "originalId": "949e635c-b44b-450a-9c2c-14da16622631",
           "type": "embed"
         },
         {
-          "id": "b78",
+          "id": "b77",
           "originalId": "9daf45b9-46d3-4e1e-b43a-5eb2ee1f65de",
           "type": "text"
         },
         {
-          "id": "b79",
+          "id": "b78",
           "originalId": "213c8b0c-a69b-43dd-b498-5fdef63a64db",
           "type": "text"
         },
         {
-          "id": "b80",
+          "id": "b79",
           "originalId": "7fc4b388-e992-433a-b87e-e54322857738",
           "type": "embed"
         },
         {
-          "id": "b81",
+          "id": "b80",
           "originalId": "e9371def-efcc-4910-8b3b-5a7fd4e4a621",
           "type": "embed"
         },
         {
-          "id": "b82",
+          "id": "b81",
           "originalId": "1eb60186-c206-4a79-bb4f-6650c53df997",
           "type": "text"
         },
         {
-          "id": "b83",
+          "id": "b82",
           "originalId": "92b4b895-ada1-4e03-993c-5aae285ff178",
           "type": "embed"
         },
         {
-          "id": "b84",
+          "id": "b83",
           "originalId": "33c74462-f03f-49a2-a800-692f36c94612",
           "type": "embed"
         },
         {
-          "id": "b85",
+          "id": "b84",
           "originalId": "ced6865e-c6b3-4b72-868e-a584e71d2307",
           "type": "text"
         },
         {
-          "id": "b86",
+          "id": "b85",
           "originalId": "72f48193-1f72-446a-ae20-875bb83fc9f1",
           "type": "embed"
         },
         {
-          "id": "b87",
+          "id": "b86",
           "originalId": "518d413c-6306-4be1-a3af-ad28c69e4f2d",
           "type": "text"
         },
         {
-          "id": "b88",
+          "id": "b87",
           "originalId": "dc471386-ef83-4dbd-82f9-19c2c6b8da08",
           "type": "embed"
         },
         {
-          "id": "b89",
+          "id": "b88",
           "originalId": "3e549f41-1070-4472-95bd-c4eb857707bf",
           "type": "text"
         },
         {
-          "id": "b90",
+          "id": "b89",
           "originalId": "5794e018-c2c5-4bd4-9e7b-bf0c7442f764",
           "type": "embed"
         },
         {
-          "id": "b91",
+          "id": "b90",
           "originalId": "0027f110-3d45-4ba8-b3e0-77192bf1de2e",
           "type": "text"
         },
         {
-          "id": "b92",
+          "id": "b91",
           "originalId": "ddb9cf71-a381-493f-9a78-e4c282a987ae",
           "type": "embed"
         },
         {
-          "id": "b93",
+          "id": "b92",
           "originalId": "e2954288-272d-4eac-a77f-b8cd5ee032e6",
           "type": "separator"
         },
         {
-          "id": "b94",
+          "id": "b93",
           "originalId": "2789019e-8ac4-4666-aba0-676c87e6356c",
           "type": "text"
         },
         {
-          "id": "b95",
+          "id": "b94",
           "originalId": "ede8ccec-ead3-4fae-8c08-86f3a36b1e51",
           "type": "image"
         },
         {
-          "id": "b96",
+          "id": "b95",
           "originalId": "ff2440a1-98e7-4b0a-b195-fad30954e012",
           "type": "embed"
         },
         {
-          "id": "b97",
+          "id": "b96",
           "originalId": "aaca5375-45de-45b0-9b38-bbea4dd53a55",
           "type": "embed"
         },
         {
-          "id": "b98",
+          "id": "b97",
           "originalId": "dee5bd1a-5300-4a5b-913d-3a35d2869cc4",
           "type": "embed"
         },
         {
-          "id": "b99",
+          "id": "b98",
           "originalId": "4836a2bc-14f6-4d38-aeca-b3873f40136d",
           "type": "separator"
         },
         {
-          "id": "b100",
+          "id": "b99",
           "originalId": "73eb5902-26d3-4de8-9f00-47e03f149c95",
           "type": "embed"
         },
         {
-          "id": "b101",
+          "id": "b100",
           "originalId": "dd89adc5-62d5-4461-9390-c64e79953cbc",
           "type": "embed"
         },
         {
-          "id": "b102",
+          "id": "b101",
           "originalId": "a2a85cc0-e0d1-4c81-a2d5-4f9e37940c85",
           "type": "embed"
         },
         {
-          "id": "b103",
+          "id": "b102",
           "originalId": "b2f89b5a-6206-4577-b430-029e83e5718d",
           "type": "navigation_button"
         }
@@ -3526,127 +3503,127 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 6,
       "blocks": [
         {
-          "id": "b104",
+          "id": "b103",
           "originalId": "188f7396-1f4c-42c0-a6e5-691f4d3948f9",
           "type": "slide_intro"
         },
         {
-          "id": "b105",
+          "id": "b104",
           "originalId": "2a9e14ab-16ac-4535-994f-2bca1f96eb18",
           "type": "text"
         },
         {
-          "id": "b106",
+          "id": "b105",
           "originalId": "be64258c-3d49-4331-aeb8-7f1ef2ef4ac5",
           "type": "callout"
         },
         {
-          "id": "b107",
+          "id": "b106",
           "originalId": "55dfd858-c675-4ba1-8e4a-62cb6bd46953",
           "type": "embed"
         },
         {
-          "id": "b108",
+          "id": "b107",
           "originalId": "9160fd4a-059f-45be-b2e0-3c59335f3b78",
           "type": "text"
         },
         {
-          "id": "b109",
+          "id": "b108",
           "originalId": "f19c3ffe-fedb-4001-bfa1-d110d3798956",
           "type": "embed"
         },
         {
-          "id": "b110",
+          "id": "b109",
           "originalId": "d9f636f9-659e-4c83-b216-c5a5a6b6771e",
           "type": "embed"
         },
         {
-          "id": "b111",
+          "id": "b110",
           "originalId": "51c79a90-86ba-4e45-a4a5-71711703ac95",
           "type": "text"
         },
         {
-          "id": "b112",
+          "id": "b111",
           "originalId": "2473018b-2e66-4e0c-b4ea-138cb3254855",
           "type": "embed"
         },
         {
-          "id": "b113",
+          "id": "b112",
           "originalId": "7844e866-62fe-4d83-a375-25087d15f11f",
           "type": "embed"
         },
         {
-          "id": "b114",
+          "id": "b113",
           "originalId": "e9296c67-a321-45df-b36d-d774e11e88d9",
           "type": "text"
         },
         {
-          "id": "b115",
+          "id": "b114",
           "originalId": "ebc31548-720c-480a-b25d-e6c8546ecbd6",
           "type": "separator"
         },
         {
-          "id": "b116",
+          "id": "b115",
           "originalId": "46eb406f-1e97-49cc-b1f7-f88f3d7668ea",
           "type": "text"
         },
         {
-          "id": "b117",
+          "id": "b116",
           "originalId": "2d86d248-02de-4f7a-bec3-24767b3e241a",
           "type": "separator"
         },
         {
-          "id": "b118",
+          "id": "b117",
           "originalId": "dcf32aca-8604-4f61-a17c-cce46e740935",
           "type": "text"
         },
         {
-          "id": "b119",
+          "id": "b118",
           "originalId": "dab9caa5-216b-48e3-99ac-753c1923e171",
           "type": "embed"
         },
         {
-          "id": "b120",
+          "id": "b119",
           "originalId": "9b96bcb7-fec0-4ba7-acf2-ce756bf976bd",
           "type": "text"
         },
         {
-          "id": "b121",
+          "id": "b120",
           "originalId": "7b38d992-29f4-436b-bd4b-9688ad8cf64d",
           "type": "embed"
         },
         {
-          "id": "b122",
+          "id": "b121",
           "originalId": "970836fb-f96a-40ed-8490-b8b9aa7f5cd6",
           "type": "embed"
         },
         {
-          "id": "b123",
+          "id": "b122",
           "originalId": "21b2a023-bcca-42b5-a618-ecd8bb698c2a",
           "type": "embed"
         },
         {
-          "id": "b124",
+          "id": "b123",
           "originalId": "27a651af-8f20-4ef6-bb85-17fa47718cc3",
           "type": "text"
         },
         {
-          "id": "b125",
+          "id": "b124",
           "originalId": "5bf476e3-9809-4c61-8ea9-2a028cff5743",
           "type": "embed"
         },
         {
-          "id": "b126",
+          "id": "b125",
           "originalId": "9c8ccc18-522c-45be-9483-346f46def80a",
           "type": "embed"
         },
         {
-          "id": "b127",
+          "id": "b126",
           "originalId": "1e90bf1d-108e-419b-883f-2f71c190a030",
           "type": "embed"
         },
         {
-          "id": "b128",
+          "id": "b127",
           "originalId": "ad9306ab-9174-48f7-994e-01099da7f06c",
           "type": "navigation_button"
         }
@@ -3659,87 +3636,87 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 7,
       "blocks": [
         {
-          "id": "b129",
+          "id": "b128",
           "originalId": "e5b83125-71e0-429f-8425-69ab80308911",
           "type": "slide_intro"
         },
         {
-          "id": "b130",
+          "id": "b129",
           "originalId": "c6ee9c0e-7881-499a-a94a-afcda5d70c67",
           "type": "text"
         },
         {
-          "id": "b131",
+          "id": "b130",
           "originalId": "a3aa642f-3d55-4179-8d44-9f83e4e640e4",
           "type": "text"
         },
         {
-          "id": "b132",
+          "id": "b131",
           "originalId": "a6b3b4da-5fc6-4114-a50d-742909a10b74",
           "type": "embed"
         },
         {
-          "id": "b133",
+          "id": "b132",
           "originalId": "4d2979c3-6232-4e1a-8312-413e163ed15a",
           "type": "embed"
         },
         {
-          "id": "b134",
+          "id": "b133",
           "originalId": "04a78ea6-7c3a-4559-87e8-702b6c003373",
           "type": "separator"
         },
         {
-          "id": "b135",
+          "id": "b134",
           "originalId": "27bc03b6-58d6-4ac3-9df8-1d50ea42d1cd",
           "type": "embed"
         },
         {
-          "id": "b136",
+          "id": "b135",
           "originalId": "945cf6c0-d3a6-45a6-a78c-07e9a77610ba",
           "type": "text"
         },
         {
-          "id": "b137",
+          "id": "b136",
           "originalId": "498c0d42-c2d9-4bc5-b2c4-3455476cbed3",
           "type": "embed"
         },
         {
-          "id": "b138",
+          "id": "b137",
           "originalId": "924119b1-4b16-41eb-ae3c-ec19881bb16d",
           "type": "embed"
         },
         {
-          "id": "b139",
+          "id": "b138",
           "originalId": "f2abcf6c-4ac1-487a-9b00-129a840dfbfa",
           "type": "embed"
         },
         {
-          "id": "b140",
+          "id": "b139",
           "originalId": "71570d11-57b9-471e-bcce-c094e3a62a84",
           "type": "embed"
         },
         {
-          "id": "b141",
+          "id": "b140",
           "originalId": "beccba3a-072f-4dd2-bbc0-b37bda8fcacf",
           "type": "text"
         },
         {
-          "id": "b142",
+          "id": "b141",
           "originalId": "e0fd8376-e731-4315-8a25-0288ab4e7d5b",
           "type": "embed"
         },
         {
-          "id": "b143",
+          "id": "b142",
           "originalId": "c7738405-df7b-4871-9c75-3fb877975a8a",
           "type": "text"
         },
         {
-          "id": "b144",
+          "id": "b143",
           "originalId": "f1be5883-448d-4719-991a-6ec1f4261ab3",
           "type": "image"
         },
         {
-          "id": "b145",
+          "id": "b144",
           "originalId": "83081c1d-1fd0-49a2-b39f-99cee5f49dd1",
           "type": "navigation_button"
         }
@@ -3752,22 +3729,22 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 8,
       "blocks": [
         {
-          "id": "b146",
+          "id": "b145",
           "originalId": "54f77737-f50d-45c7-bb2e-9dd1caba78f0",
           "type": "text"
         },
         {
-          "id": "b147",
+          "id": "b146",
           "originalId": "64b7bd9e-8e96-419f-bb2c-bbdd32974622",
           "type": "text"
         },
         {
-          "id": "b148",
+          "id": "b147",
           "originalId": "85763a9a-8914-4ee0-b121-9be20ebabf8e",
           "type": "embed"
         },
         {
-          "id": "b149",
+          "id": "b148",
           "originalId": "e54a0c75-16cf-4018-beda-c4d95650a46e",
           "type": "navigation_button"
         }
@@ -3780,12 +3757,12 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 9,
       "blocks": [
         {
-          "id": "b150",
+          "id": "b149",
           "originalId": "9b982c3c-42ca-4a98-82c8-3e9fc55f51ff",
           "type": "embed"
         },
         {
-          "id": "b151",
+          "id": "b150",
           "originalId": "e35d5660-d3c1-43f2-89c1-5eaa5feb92df",
           "type": "navigation_button"
         }
@@ -3798,22 +3775,22 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 10,
       "blocks": [
         {
-          "id": "b152",
+          "id": "b151",
           "originalId": "c582eb1d-a822-4964-9c79-b2b273b91411",
           "type": "text"
         },
         {
-          "id": "b153",
+          "id": "b152",
           "originalId": "eb1d20d5-a15b-4706-9abd-665cf0cf3707",
           "type": "text"
         },
         {
-          "id": "b154",
+          "id": "b153",
           "originalId": "92047b55-0eed-4599-980b-cc9cce7129dd",
           "type": "text"
         },
         {
-          "id": "b155",
+          "id": "b154",
           "originalId": "80cec72b-5f2d-43a3-a077-acee929d18c6",
           "type": "navigation_button"
         }
@@ -3822,7 +3799,7 @@ window.__BLOCK_ID_MAPPING__ = {
   ],
   "stats": {
     "totalSlides": 11,
-    "totalBlocks": 156,
+    "totalBlocks": 155,
     "blockTypes": [
       "text",
       "navigation_button",
