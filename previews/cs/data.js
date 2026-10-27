@@ -1,10 +1,10 @@
 // Block ID Mapping
-// Generated: 2026-10-26T03:04:34.813Z
+// Generated: 2026-10-26T15:33:00.008Z
 // Course: UAOA eLearning Course (CS)
 window.__BLOCK_ID_MAPPING__ = {
   "courseId": "cf82e1b0-67b6-4824-b3ab-dcf26796c057",
   "courseTitle": "UAOA eLearning Course (CS)",
-  "generatedAt": "2026-10-26T03:04:34.813Z",
+  "generatedAt": "2026-10-26T15:33:00.008Z",
   "version": "1.0",
   "blocks": {
     "b0": {
