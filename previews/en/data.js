@@ -1,10 +1,10 @@
 // Block ID Mapping
-// Generated: 2026-11-06T20:37:55.395Z
+// Generated: 2026-11-09T13:42:49.205Z
 // Course: UAOA eLearning Course
 window.__BLOCK_ID_MAPPING__ = {
   "courseId": "428b8e0e-9238-4608-a1a3-962afd799ccf",
   "courseTitle": "UAOA eLearning Course",
-  "generatedAt": "2026-11-06T20:37:55.395Z",
+  "generatedAt": "2026-11-09T13:42:49.205Z",
   "version": "1.0",
   "blocks": {
     "b0": {
@@ -962,7 +962,7 @@ window.__BLOCK_ID_MAPPING__ = {
     "b56": {
       "originalId": "e816d5bd-488f-4ea6-8d85-8cfd00227d6c",
       "type": "text",
-      "variant": "subheading_with_paragraph",
+      "variant": "subheading",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4,
@@ -971,7 +971,7 @@ window.__BLOCK_ID_MAPPING__ = {
     "e816d5bd-488f-4ea6-8d85-8cfd00227d6c": {
       "sequentialId": "b56",
       "type": "text",
-      "variant": "subheading_with_paragraph",
+      "variant": "subheading",
       "slideId": "s4",
       "slideOriginalId": "b4fb888c-e41c-4b92-ba33-c3c6b9cfaeb4",
       "slideIndex": 4
@@ -1285,7 +1285,7 @@ window.__BLOCK_ID_MAPPING__ = {
     "b75": {
       "originalId": "213c8b0c-a69b-43dd-b498-5fdef63a64db",
       "type": "text",
-      "variant": "subheading_with_paragraph",
+      "variant": "subheading",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5,
@@ -1294,7 +1294,7 @@ window.__BLOCK_ID_MAPPING__ = {
     "213c8b0c-a69b-43dd-b498-5fdef63a64db": {
       "sequentialId": "b75",
       "type": "text",
-      "variant": "subheading_with_paragraph",
+      "variant": "subheading",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
@@ -1929,18 +1929,18 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 6
     },
     "b113": {
-      "originalId": "46eb406f-1e97-49cc-b1f7-f88f3d7668ea",
-      "type": "text",
-      "variant": "two_columns_grid",
+      "originalId": "e9a9518d-98d3-473a-ba83-f9de70955a69",
+      "type": "embed",
+      "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6,
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
-    "46eb406f-1e97-49cc-b1f7-f88f3d7668ea": {
+    "e9a9518d-98d3-473a-ba83-f9de70955a69": {
       "sequentialId": "b113",
-      "type": "text",
-      "variant": "two_columns_grid",
+      "type": "embed",
+      "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
@@ -2541,40 +2541,57 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 9
     },
     "b149": {
-      "originalId": "c582eb1d-a822-4964-9c79-b2b273b91411",
-      "type": "text",
-      "variant": "paragraph",
+      "originalId": "10af8f85-845a-40c2-835f-b8e0a0ea9ed5",
+      "type": "image",
+      "variant": "image",
       "slideId": "s10",
       "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
       "slideIndex": 10,
       "slideTitle": "Exit Page"
     },
-    "c582eb1d-a822-4964-9c79-b2b273b91411": {
+    "10af8f85-845a-40c2-835f-b8e0a0ea9ed5": {
       "sequentialId": "b149",
-      "type": "text",
-      "variant": "paragraph",
+      "type": "image",
+      "variant": "image",
       "slideId": "s10",
       "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
       "slideIndex": 10
     },
     "b150": {
-      "originalId": "eb1d20d5-a15b-4706-9abd-665cf0cf3707",
+      "originalId": "3b977b8c-7f84-43ff-82d0-320a1aa016ff",
       "type": "text",
-      "variant": "subheading",
+      "variant": "paragraph",
       "slideId": "s10",
       "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
       "slideIndex": 10,
       "slideTitle": "Exit Page"
     },
-    "eb1d20d5-a15b-4706-9abd-665cf0cf3707": {
+    "3b977b8c-7f84-43ff-82d0-320a1aa016ff": {
       "sequentialId": "b150",
       "type": "text",
-      "variant": "subheading",
+      "variant": "paragraph",
       "slideId": "s10",
       "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
       "slideIndex": 10
     },
     "b151": {
+      "originalId": "e345f43f-70f4-42d1-8c8b-65fb6bedcf7a",
+      "type": "embed",
+      "variant": "iframe",
+      "slideId": "s10",
+      "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
+      "slideIndex": 10,
+      "slideTitle": "Exit Page"
+    },
+    "e345f43f-70f4-42d1-8c8b-65fb6bedcf7a": {
+      "sequentialId": "b151",
+      "type": "embed",
+      "variant": "iframe",
+      "slideId": "s10",
+      "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
+      "slideIndex": 10
+    },
+    "b152": {
       "originalId": "92047b55-0eed-4599-980b-cc9cce7129dd",
       "type": "text",
       "variant": "paragraph",
@@ -2584,14 +2601,48 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Exit Page"
     },
     "92047b55-0eed-4599-980b-cc9cce7129dd": {
-      "sequentialId": "b151",
+      "sequentialId": "b152",
       "type": "text",
       "variant": "paragraph",
       "slideId": "s10",
       "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
       "slideIndex": 10
     },
-    "b152": {
+    "b153": {
+      "originalId": "aa61ec2d-8065-4cdd-acaf-9353a2e9536e",
+      "type": "embed",
+      "variant": "iframe",
+      "slideId": "s10",
+      "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
+      "slideIndex": 10,
+      "slideTitle": "Exit Page"
+    },
+    "aa61ec2d-8065-4cdd-acaf-9353a2e9536e": {
+      "sequentialId": "b153",
+      "type": "embed",
+      "variant": "iframe",
+      "slideId": "s10",
+      "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
+      "slideIndex": 10
+    },
+    "b154": {
+      "originalId": "beded3a1-de33-406e-913c-56b188cdb910",
+      "type": "image",
+      "variant": "image_with_text",
+      "slideId": "s10",
+      "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
+      "slideIndex": 10,
+      "slideTitle": "Exit Page"
+    },
+    "beded3a1-de33-406e-913c-56b188cdb910": {
+      "sequentialId": "b154",
+      "type": "image",
+      "variant": "image_with_text",
+      "slideId": "s10",
+      "slideOriginalId": "bdeace05-2d09-4056-8283-face7b8365e0",
+      "slideIndex": 10
+    },
+    "b155": {
       "originalId": "80cec72b-5f2d-43a3-a077-acee929d18c6",
       "type": "navigation_button",
       "variant": "default",
@@ -2601,7 +2652,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Exit Page"
     },
     "80cec72b-5f2d-43a3-a077-acee929d18c6": {
-      "sequentialId": "b152",
+      "sequentialId": "b155",
       "type": "navigation_button",
       "variant": "default",
       "slideId": "s10",
@@ -2887,7 +2938,10 @@ window.__BLOCK_ID_MAPPING__ = {
         "b149",
         "b150",
         "b151",
-        "b152"
+        "b152",
+        "b153",
+        "b154",
+        "b155"
       ]
     },
     "bdeace05-2d09-4056-8283-face7b8365e0": {
@@ -3518,8 +3572,8 @@ window.__BLOCK_ID_MAPPING__ = {
         },
         {
           "id": "b113",
-          "originalId": "46eb406f-1e97-49cc-b1f7-f88f3d7668ea",
-          "type": "text"
+          "originalId": "e9a9518d-98d3-473a-ba83-f9de70955a69",
+          "type": "embed"
         },
         {
           "id": "b114",
@@ -3730,21 +3784,36 @@ window.__BLOCK_ID_MAPPING__ = {
       "blocks": [
         {
           "id": "b149",
-          "originalId": "c582eb1d-a822-4964-9c79-b2b273b91411",
-          "type": "text"
+          "originalId": "10af8f85-845a-40c2-835f-b8e0a0ea9ed5",
+          "type": "image"
         },
         {
           "id": "b150",
-          "originalId": "eb1d20d5-a15b-4706-9abd-665cf0cf3707",
+          "originalId": "3b977b8c-7f84-43ff-82d0-320a1aa016ff",
           "type": "text"
         },
         {
           "id": "b151",
+          "originalId": "e345f43f-70f4-42d1-8c8b-65fb6bedcf7a",
+          "type": "embed"
+        },
+        {
+          "id": "b152",
           "originalId": "92047b55-0eed-4599-980b-cc9cce7129dd",
           "type": "text"
         },
         {
-          "id": "b152",
+          "id": "b153",
+          "originalId": "aa61ec2d-8065-4cdd-acaf-9353a2e9536e",
+          "type": "embed"
+        },
+        {
+          "id": "b154",
+          "originalId": "beded3a1-de33-406e-913c-56b188cdb910",
+          "type": "image"
+        },
+        {
+          "id": "b155",
           "originalId": "80cec72b-5f2d-43a3-a077-acee929d18c6",
           "type": "navigation_button"
         }
@@ -3753,7 +3822,7 @@ window.__BLOCK_ID_MAPPING__ = {
   ],
   "stats": {
     "totalSlides": 11,
-    "totalBlocks": 153,
+    "totalBlocks": 156,
     "blockTypes": [
       "text",
       "image",
