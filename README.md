@@ -4,24 +4,23 @@ Stakeholder landing page for **per-language HTML course exports**.
 
 **Live site:** https://jhendri4.github.io/uaoa-course-preview/
 
-## Languages
+## English preview (GitHub Pages)
+
+Public Pages hosts **English only** so deploys stay under GitHub’s size/time limits (~63MB vs ~370MB for all six languages).
 
 | Path | Language |
 |------|----------|
 | [`previews/en/`](previews/en/) | English |
-| [`previews/es/`](previews/es/) | Español |
-| [`previews/fr/`](previews/fr/) | Français |
-| [`previews/cs/`](previews/cs/) | Čeština |
-| [`previews/sl/`](previews/sl/) | Slovenščina |
-| [`previews/sv/`](previews/sv/) | Svenska |
 
-Each folder is a ScormStack **HTML export** with `index.html` as the player entry point.
+`index.html` at the site root is a one-language landing page linking to `previews/en/`.
 
-## Refresh an export
+## Refresh English
 
-1. Export HTML for that language from ScormStack and unzip.
-2. Replace `previews/<locale>/` contents so `previews/<locale>/index.html` opens the player.
+1. Export HTML for **English** from ScormStack and unzip.
+2. Replace `previews/en/` so `previews/en/index.html` opens the player.
 3. Commit and push `main` — GitHub Pages rebuilds from `/`.
+
+Other locales: use ScormStack preview or add a locale folder locally; do not commit extra full exports to `main` unless Pages limits are addressed (e.g. separate repos per language).
 
 ## Related
 
