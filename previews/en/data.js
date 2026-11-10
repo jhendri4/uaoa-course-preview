@@ -1,10 +1,10 @@
 // Block ID Mapping
-// Generated: 2026-11-09T13:42:49.205Z
+// Generated: 2026-11-10T00:21:05.862Z
 // Course: UAOA eLearning Course
 window.__BLOCK_ID_MAPPING__ = {
   "courseId": "428b8e0e-9238-4608-a1a3-962afd799ccf",
   "courseTitle": "UAOA eLearning Course",
-  "generatedAt": "2026-11-09T13:42:49.205Z",
+  "generatedAt": "2026-11-10T00:21:05.862Z",
   "version": "1.0",
   "blocks": {
     "b0": {
@@ -303,7 +303,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s2",
       "slideOriginalId": "f11326b4-0133-4106-b4f5-6ce8842de2bf",
       "slideIndex": 2,
-      "slideTitle": "Pre-course survey"
+      "slideTitle": "Pre-course Survey"
     },
     "613f0d3d-0f42-4c9a-b4e9-9f59720be45f": {
       "sequentialId": "b17",
@@ -320,7 +320,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s2",
       "slideOriginalId": "f11326b4-0133-4106-b4f5-6ce8842de2bf",
       "slideIndex": 2,
-      "slideTitle": "Pre-course survey"
+      "slideTitle": "Pre-course Survey"
     },
     "02cefcb8-1f8c-4ab8-9885-a0635f5bbac9": {
       "sequentialId": "b18",
@@ -337,7 +337,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s2",
       "slideOriginalId": "f11326b4-0133-4106-b4f5-6ce8842de2bf",
       "slideIndex": 2,
-      "slideTitle": "Pre-course survey"
+      "slideTitle": "Pre-course Survey"
     },
     "57a31041-2af7-4e10-9930-d2a9024f922f": {
       "sequentialId": "b19",
@@ -1317,23 +1317,6 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 5
     },
     "b77": {
-      "originalId": "2dd0f9bf-7b9a-41af-bdb7-878888840f5c",
-      "type": "text",
-      "variant": "paragraph",
-      "slideId": "s5",
-      "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
-      "slideIndex": 5,
-      "slideTitle": "How Online Harm Spreads"
-    },
-    "2dd0f9bf-7b9a-41af-bdb7-878888840f5c": {
-      "sequentialId": "b77",
-      "type": "text",
-      "variant": "paragraph",
-      "slideId": "s5",
-      "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
-      "slideIndex": 5
-    },
-    "b78": {
       "originalId": "e9371def-efcc-4910-8b3b-5a7fd4e4a621",
       "type": "embed",
       "variant": "iframe",
@@ -1343,14 +1326,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "e9371def-efcc-4910-8b3b-5a7fd4e4a621": {
-      "sequentialId": "b78",
+      "sequentialId": "b77",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b79": {
+    "b78": {
       "originalId": "1eb60186-c206-4a79-bb4f-6650c53df997",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -1360,14 +1343,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "1eb60186-c206-4a79-bb4f-6650c53df997": {
-      "sequentialId": "b79",
+      "sequentialId": "b78",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
     },
-    "b80": {
+    "b79": {
       "originalId": "92b4b895-ada1-4e03-993c-5aae285ff178",
       "type": "embed",
       "variant": "iframe",
@@ -1377,9 +1360,26 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "How Online Harm Spreads"
     },
     "92b4b895-ada1-4e03-993c-5aae285ff178": {
-      "sequentialId": "b80",
+      "sequentialId": "b79",
       "type": "embed",
       "variant": "iframe",
+      "slideId": "s5",
+      "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
+      "slideIndex": 5
+    },
+    "b80": {
+      "originalId": "db4bdd8d-3bc3-4510-aa9a-67b23504d392",
+      "type": "text",
+      "variant": "paragraph",
+      "slideId": "s5",
+      "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
+      "slideIndex": 5,
+      "slideTitle": "How Online Harm Spreads"
+    },
+    "db4bdd8d-3bc3-4510-aa9a-67b23504d392": {
+      "sequentialId": "b80",
+      "type": "text",
+      "variant": "paragraph",
       "slideId": "s5",
       "slideOriginalId": "69085f32-b529-456b-bef0-6ceae5b34c1d",
       "slideIndex": 5
@@ -1759,18 +1759,18 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 6
     },
     "b103": {
-      "originalId": "be64258c-3d49-4331-aeb8-7f1ef2ef4ac5",
-      "type": "callout",
-      "variant": "default",
+      "originalId": "f4388d0a-8cf4-48b6-9cb2-76751729bd6a",
+      "type": "embed",
+      "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6,
       "slideTitle": "Knowing Your Rights and Responsibilities"
     },
-    "be64258c-3d49-4331-aeb8-7f1ef2ef4ac5": {
+    "f4388d0a-8cf4-48b6-9cb2-76751729bd6a": {
       "sequentialId": "b103",
-      "type": "callout",
-      "variant": "default",
+      "type": "embed",
+      "variant": "iframe",
       "slideId": "s6",
       "slideOriginalId": "63c299a3-9125-4dae-9126-8417d7c6dd50",
       "slideIndex": 6
@@ -2704,7 +2704,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "s2": {
       "originalId": "f11326b4-0133-4106-b4f5-6ce8842de2bf",
-      "title": "Pre-course survey",
+      "title": "Pre-course Survey",
       "index": 2,
       "blockIds": [
         "b17",
@@ -2714,7 +2714,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "f11326b4-0133-4106-b4f5-6ce8842de2bf": {
       "sequentialId": "s2",
-      "title": "Pre-course survey",
+      "title": "Pre-course Survey",
       "index": 2
     },
     "s3": {
@@ -3055,7 +3055,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s2",
       "originalId": "f11326b4-0133-4106-b4f5-6ce8842de2bf",
-      "title": "Pre-course survey",
+      "title": "Pre-course Survey",
       "index": 2,
       "blocks": [
         {
@@ -3384,23 +3384,23 @@ window.__BLOCK_ID_MAPPING__ = {
         },
         {
           "id": "b77",
-          "originalId": "2dd0f9bf-7b9a-41af-bdb7-878888840f5c",
-          "type": "text"
-        },
-        {
-          "id": "b78",
           "originalId": "e9371def-efcc-4910-8b3b-5a7fd4e4a621",
           "type": "embed"
         },
         {
-          "id": "b79",
+          "id": "b78",
           "originalId": "1eb60186-c206-4a79-bb4f-6650c53df997",
           "type": "text"
         },
         {
-          "id": "b80",
+          "id": "b79",
           "originalId": "92b4b895-ada1-4e03-993c-5aae285ff178",
           "type": "embed"
+        },
+        {
+          "id": "b80",
+          "originalId": "db4bdd8d-3bc3-4510-aa9a-67b23504d392",
+          "type": "text"
         },
         {
           "id": "b81",
@@ -3522,8 +3522,8 @@ window.__BLOCK_ID_MAPPING__ = {
         },
         {
           "id": "b103",
-          "originalId": "be64258c-3d49-4331-aeb8-7f1ef2ef4ac5",
-          "type": "callout"
+          "originalId": "f4388d0a-8cf4-48b6-9cb2-76751729bd6a",
+          "type": "embed"
         },
         {
           "id": "b104",
@@ -3830,8 +3830,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "embed",
       "separator",
       "navigation_button",
-      "slide_intro",
-      "callout"
+      "slide_intro"
     ]
   }
 };
