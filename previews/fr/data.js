@@ -1,10 +1,10 @@
 // Block ID Mapping
-// Generated: 2026-11-11T18:16:14.711Z
+// Generated: 2026-11-12T03:08:41.718Z
 // Course: UAOA eLearning Course (FR)
 window.__BLOCK_ID_MAPPING__ = {
   "courseId": "f4f727b1-ffb9-4fa6-81b3-940b67efe28d",
   "courseTitle": "UAOA eLearning Course (FR)",
-  "generatedAt": "2026-11-11T18:16:14.711Z",
+  "generatedAt": "2026-11-12T03:08:41.718Z",
   "version": "1.0",
   "blocks": {
     "b0": {
@@ -14,7 +14,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s0",
       "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
       "slideIndex": 0,
-      "slideTitle": "À propos de ce cours"
+      "slideTitle": "À propos de cette formation"
     },
     "284988f2-94ba-42e0-9f7c-3c756fa99e3f": {
       "sequentialId": "b0",
@@ -31,7 +31,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s0",
       "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
       "slideIndex": 0,
-      "slideTitle": "À propos de ce cours"
+      "slideTitle": "À propos de cette formation"
     },
     "07b6f285-e611-4f0a-b1c2-2de3dc674a02": {
       "sequentialId": "b1",
@@ -42,74 +42,91 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 0
     },
     "b2": {
+      "originalId": "c41b0906-e6ac-4adb-9abc-1467fc34e115",
+      "type": "video",
+      "variant": "video",
+      "slideId": "s0",
+      "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
+      "slideIndex": 0,
+      "slideTitle": "À propos de cette formation"
+    },
+    "c41b0906-e6ac-4adb-9abc-1467fc34e115": {
+      "sequentialId": "b2",
+      "type": "video",
+      "variant": "video",
+      "slideId": "s0",
+      "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
+      "slideIndex": 0
+    },
+    "b3": {
       "originalId": "99677ce3-202f-433c-9ed6-ebf1fb69f2de",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
       "slideIndex": 0,
-      "slideTitle": "À propos de ce cours"
+      "slideTitle": "À propos de cette formation"
     },
     "99677ce3-202f-433c-9ed6-ebf1fb69f2de": {
-      "sequentialId": "b2",
+      "sequentialId": "b3",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
       "slideIndex": 0
     },
-    "b3": {
+    "b4": {
       "originalId": "a206ded9-b086-45e4-b5eb-6edb75fb4dc8",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s0",
       "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
       "slideIndex": 0,
-      "slideTitle": "À propos de ce cours"
+      "slideTitle": "À propos de cette formation"
     },
     "a206ded9-b086-45e4-b5eb-6edb75fb4dc8": {
-      "sequentialId": "b3",
+      "sequentialId": "b4",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s0",
       "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
       "slideIndex": 0
     },
-    "b4": {
+    "b5": {
       "originalId": "433ac661-1035-4d38-9812-d726e8c92f75",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s0",
       "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
       "slideIndex": 0,
-      "slideTitle": "À propos de ce cours"
+      "slideTitle": "À propos de cette formation"
     },
     "433ac661-1035-4d38-9812-d726e8c92f75": {
-      "sequentialId": "b4",
+      "sequentialId": "b5",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s0",
       "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
       "slideIndex": 0
     },
-    "b5": {
+    "b6": {
       "originalId": "ab13d742-a544-4896-832f-8647e5b8ecdc",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
       "slideIndex": 0,
-      "slideTitle": "À propos de ce cours"
+      "slideTitle": "À propos de cette formation"
     },
     "ab13d742-a544-4896-832f-8647e5b8ecdc": {
-      "sequentialId": "b5",
+      "sequentialId": "b6",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
       "slideIndex": 0
     },
-    "b6": {
+    "b7": {
       "originalId": "193bb607-a5ed-43ee-884d-5021eb9656c5",
       "type": "embed",
       "variant": "iframe",
@@ -119,14 +136,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Bienvenue"
     },
     "193bb607-a5ed-43ee-884d-5021eb9656c5": {
-      "sequentialId": "b6",
+      "sequentialId": "b7",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s1",
       "slideOriginalId": "755134cc-d643-4f31-b826-04bc9c7207c7",
       "slideIndex": 1
     },
-    "b7": {
+    "b8": {
       "originalId": "3d1ef1e8-719c-49e4-9ab3-a65721b633fc",
       "type": "image",
       "variant": "text_on_image",
@@ -136,14 +153,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Bienvenue"
     },
     "3d1ef1e8-719c-49e4-9ab3-a65721b633fc": {
-      "sequentialId": "b7",
+      "sequentialId": "b8",
       "type": "image",
       "variant": "text_on_image",
       "slideId": "s1",
       "slideOriginalId": "755134cc-d643-4f31-b826-04bc9c7207c7",
       "slideIndex": 1
     },
-    "b8": {
+    "b9": {
       "originalId": "97430bda-d862-4012-9f5e-bc29107a27ad",
       "type": "text",
       "variant": "paragraph",
@@ -153,26 +170,9 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Bienvenue"
     },
     "97430bda-d862-4012-9f5e-bc29107a27ad": {
-      "sequentialId": "b8",
+      "sequentialId": "b9",
       "type": "text",
       "variant": "paragraph",
-      "slideId": "s1",
-      "slideOriginalId": "755134cc-d643-4f31-b826-04bc9c7207c7",
-      "slideIndex": 1
-    },
-    "b9": {
-      "originalId": "c41b0906-e6ac-4adb-9abc-1467fc34e115",
-      "type": "video",
-      "variant": "video",
-      "slideId": "s1",
-      "slideOriginalId": "755134cc-d643-4f31-b826-04bc9c7207c7",
-      "slideIndex": 1,
-      "slideTitle": "Bienvenue"
-    },
-    "c41b0906-e6ac-4adb-9abc-1467fc34e115": {
-      "sequentialId": "b9",
-      "type": "video",
-      "variant": "video",
       "slideId": "s1",
       "slideOriginalId": "755134cc-d643-4f31-b826-04bc9c7207c7",
       "slideIndex": 1
@@ -303,7 +303,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s2",
       "slideOriginalId": "2c151a9c-22bb-4d86-9d0c-df6106c7c76b",
       "slideIndex": 2,
-      "slideTitle": "Enquête préalable au cours"
+      "slideTitle": "Enquête préalable à la formation"
     },
     "9c3a4736-90df-470e-acad-e21b469a66fe": {
       "sequentialId": "b17",
@@ -320,7 +320,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s2",
       "slideOriginalId": "2c151a9c-22bb-4d86-9d0c-df6106c7c76b",
       "slideIndex": 2,
-      "slideTitle": "Enquête préalable au cours"
+      "slideTitle": "Enquête préalable à la formation"
     },
     "f371034c-4cf1-46fe-85da-c32c3845952b": {
       "sequentialId": "b18",
@@ -337,7 +337,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s2",
       "slideOriginalId": "2c151a9c-22bb-4d86-9d0c-df6106c7c76b",
       "slideIndex": 2,
-      "slideTitle": "Enquête préalable au cours"
+      "slideTitle": "Enquête préalable à la formation"
     },
     "dc723a59-7d80-4b86-ad69-9a18a2469657": {
       "sequentialId": "b19",
@@ -2646,7 +2646,7 @@ window.__BLOCK_ID_MAPPING__ = {
   "slides": {
     "s0": {
       "originalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
-      "title": "À propos de ce cours",
+      "title": "À propos de cette formation",
       "index": 0,
       "blockIds": [
         "b0",
@@ -2654,12 +2654,13 @@ window.__BLOCK_ID_MAPPING__ = {
         "b2",
         "b3",
         "b4",
-        "b5"
+        "b5",
+        "b6"
       ]
     },
     "e64cd946-c38f-4d62-a0e9-b00f5b0680ca": {
       "sequentialId": "s0",
-      "title": "À propos de ce cours",
+      "title": "À propos de cette formation",
       "index": 0
     },
     "s1": {
@@ -2667,7 +2668,6 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Bienvenue",
       "index": 1,
       "blockIds": [
-        "b6",
         "b7",
         "b8",
         "b9",
@@ -2687,7 +2687,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "s2": {
       "originalId": "2c151a9c-22bb-4d86-9d0c-df6106c7c76b",
-      "title": "Enquête préalable au cours",
+      "title": "Enquête préalable à la formation",
       "index": 2,
       "blockIds": [
         "b17",
@@ -2697,7 +2697,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "2c151a9c-22bb-4d86-9d0c-df6106c7c76b": {
       "sequentialId": "s2",
-      "title": "Enquête préalable au cours",
+      "title": "Enquête préalable à la formation",
       "index": 2
     },
     "s3": {
@@ -2936,7 +2936,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s0",
       "originalId": "e64cd946-c38f-4d62-a0e9-b00f5b0680ca",
-      "title": "À propos de ce cours",
+      "title": "À propos de cette formation",
       "index": 0,
       "blocks": [
         {
@@ -2951,21 +2951,26 @@ window.__BLOCK_ID_MAPPING__ = {
         },
         {
           "id": "b2",
+          "originalId": "c41b0906-e6ac-4adb-9abc-1467fc34e115",
+          "type": "video"
+        },
+        {
+          "id": "b3",
           "originalId": "99677ce3-202f-433c-9ed6-ebf1fb69f2de",
           "type": "text"
         },
         {
-          "id": "b3",
+          "id": "b4",
           "originalId": "a206ded9-b086-45e4-b5eb-6edb75fb4dc8",
           "type": "embed"
         },
         {
-          "id": "b4",
+          "id": "b5",
           "originalId": "433ac661-1035-4d38-9812-d726e8c92f75",
           "type": "text"
         },
         {
-          "id": "b5",
+          "id": "b6",
           "originalId": "ab13d742-a544-4896-832f-8647e5b8ecdc",
           "type": "text"
         }
@@ -2978,24 +2983,19 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 1,
       "blocks": [
         {
-          "id": "b6",
+          "id": "b7",
           "originalId": "193bb607-a5ed-43ee-884d-5021eb9656c5",
           "type": "embed"
         },
         {
-          "id": "b7",
+          "id": "b8",
           "originalId": "3d1ef1e8-719c-49e4-9ab3-a65721b633fc",
           "type": "image"
         },
         {
-          "id": "b8",
+          "id": "b9",
           "originalId": "97430bda-d862-4012-9f5e-bc29107a27ad",
           "type": "text"
-        },
-        {
-          "id": "b9",
-          "originalId": "c41b0906-e6ac-4adb-9abc-1467fc34e115",
-          "type": "video"
         },
         {
           "id": "b10",
@@ -3037,7 +3037,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s2",
       "originalId": "2c151a9c-22bb-4d86-9d0c-df6106c7c76b",
-      "title": "Enquête préalable au cours",
+      "title": "Enquête préalable à la formation",
       "index": 2,
       "blocks": [
         {
@@ -3803,8 +3803,8 @@ window.__BLOCK_ID_MAPPING__ = {
     "blockTypes": [
       "text",
       "image",
-      "embed",
       "video",
+      "embed",
       "separator",
       "navigation_button",
       "slide_intro"
