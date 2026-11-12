@@ -1,10 +1,10 @@
 // Block ID Mapping
-// Generated: 2026-11-11T18:16:22.889Z
+// Generated: 2026-11-12T03:16:40.275Z
 // Course: UAOA eLearning Course (SV)
 window.__BLOCK_ID_MAPPING__ = {
   "courseId": "886ff197-1e32-46bc-8abb-006c5139d97f",
   "courseTitle": "UAOA eLearning Course (SV)",
-  "generatedAt": "2026-11-11T18:16:22.889Z",
+  "generatedAt": "2026-11-12T03:16:40.275Z",
   "version": "1.0",
   "blocks": {
     "b0": {
@@ -42,6 +42,23 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 0
     },
     "b2": {
+      "originalId": "dee0367e-3d7d-4c7f-bfd4-7f67ce2a51f3",
+      "type": "video",
+      "variant": "video",
+      "slideId": "s0",
+      "slideOriginalId": "6f91bcf3-c879-4281-a87d-18f06ec9e2ea",
+      "slideIndex": 0,
+      "slideTitle": "Om den här kursen"
+    },
+    "dee0367e-3d7d-4c7f-bfd4-7f67ce2a51f3": {
+      "sequentialId": "b2",
+      "type": "video",
+      "variant": "video",
+      "slideId": "s0",
+      "slideOriginalId": "6f91bcf3-c879-4281-a87d-18f06ec9e2ea",
+      "slideIndex": 0
+    },
+    "b3": {
       "originalId": "5afa64ea-764e-4827-bd0e-1fca5c00b11d",
       "type": "text",
       "variant": "subheading",
@@ -51,14 +68,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Om den här kursen"
     },
     "5afa64ea-764e-4827-bd0e-1fca5c00b11d": {
-      "sequentialId": "b2",
+      "sequentialId": "b3",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "6f91bcf3-c879-4281-a87d-18f06ec9e2ea",
       "slideIndex": 0
     },
-    "b3": {
+    "b4": {
       "originalId": "e1c5932f-9930-4fc0-ad64-e553d92df262",
       "type": "embed",
       "variant": "iframe",
@@ -68,14 +85,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Om den här kursen"
     },
     "e1c5932f-9930-4fc0-ad64-e553d92df262": {
-      "sequentialId": "b3",
+      "sequentialId": "b4",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s0",
       "slideOriginalId": "6f91bcf3-c879-4281-a87d-18f06ec9e2ea",
       "slideIndex": 0
     },
-    "b4": {
+    "b5": {
       "originalId": "7ff40666-2e14-4f4a-8d3e-a61adeeb64e2",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -85,14 +102,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Om den här kursen"
     },
     "7ff40666-2e14-4f4a-8d3e-a61adeeb64e2": {
-      "sequentialId": "b4",
+      "sequentialId": "b5",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s0",
       "slideOriginalId": "6f91bcf3-c879-4281-a87d-18f06ec9e2ea",
       "slideIndex": 0
     },
-    "b5": {
+    "b6": {
       "originalId": "1e88aded-4ce0-4a46-9807-44ae2c5531bc",
       "type": "text",
       "variant": "subheading",
@@ -102,14 +119,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Om den här kursen"
     },
     "1e88aded-4ce0-4a46-9807-44ae2c5531bc": {
-      "sequentialId": "b5",
+      "sequentialId": "b6",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "6f91bcf3-c879-4281-a87d-18f06ec9e2ea",
       "slideIndex": 0
     },
-    "b6": {
+    "b7": {
       "originalId": "3fed1916-c06a-4476-8ce0-436dec1e40a8",
       "type": "embed",
       "variant": "iframe",
@@ -119,14 +136,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Välkommen"
     },
     "3fed1916-c06a-4476-8ce0-436dec1e40a8": {
-      "sequentialId": "b6",
+      "sequentialId": "b7",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s1",
       "slideOriginalId": "40db9c68-c60c-4965-ae52-8059fc472df1",
       "slideIndex": 1
     },
-    "b7": {
+    "b8": {
       "originalId": "af918a85-8dd0-438d-9424-29cc34cb416f",
       "type": "image",
       "variant": "text_on_image",
@@ -136,14 +153,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Välkommen"
     },
     "af918a85-8dd0-438d-9424-29cc34cb416f": {
-      "sequentialId": "b7",
+      "sequentialId": "b8",
       "type": "image",
       "variant": "text_on_image",
       "slideId": "s1",
       "slideOriginalId": "40db9c68-c60c-4965-ae52-8059fc472df1",
       "slideIndex": 1
     },
-    "b8": {
+    "b9": {
       "originalId": "0799bb93-1951-4a7d-921c-78f8dd1daac1",
       "type": "text",
       "variant": "paragraph",
@@ -153,26 +170,9 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Välkommen"
     },
     "0799bb93-1951-4a7d-921c-78f8dd1daac1": {
-      "sequentialId": "b8",
+      "sequentialId": "b9",
       "type": "text",
       "variant": "paragraph",
-      "slideId": "s1",
-      "slideOriginalId": "40db9c68-c60c-4965-ae52-8059fc472df1",
-      "slideIndex": 1
-    },
-    "b9": {
-      "originalId": "dee0367e-3d7d-4c7f-bfd4-7f67ce2a51f3",
-      "type": "video",
-      "variant": "video",
-      "slideId": "s1",
-      "slideOriginalId": "40db9c68-c60c-4965-ae52-8059fc472df1",
-      "slideIndex": 1,
-      "slideTitle": "Välkommen"
-    },
-    "dee0367e-3d7d-4c7f-bfd4-7f67ce2a51f3": {
-      "sequentialId": "b9",
-      "type": "video",
-      "variant": "video",
       "slideId": "s1",
       "slideOriginalId": "40db9c68-c60c-4965-ae52-8059fc472df1",
       "slideIndex": 1
@@ -354,7 +354,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "314bf788-430c-4199-851d-d2a9d851517c": {
       "sequentialId": "b20",
@@ -371,7 +371,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "f711cd2b-3310-4052-9cf3-58dd47235ebb": {
       "sequentialId": "b21",
@@ -388,7 +388,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "72d36a66-8461-4812-8c94-54c8b37f42e4": {
       "sequentialId": "b22",
@@ -405,7 +405,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "8c314a16-b731-4ed8-b98f-7cff2368c9b3": {
       "sequentialId": "b23",
@@ -422,7 +422,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "67d49213-fbf7-49c7-93e5-1cf20ac5792a": {
       "sequentialId": "b24",
@@ -439,7 +439,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "d0b8eb88-8546-4115-b973-5ac40f97a371": {
       "sequentialId": "b25",
@@ -456,7 +456,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "c14cbb5e-3f29-413d-b5a2-893beefe583b": {
       "sequentialId": "b26",
@@ -473,7 +473,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "29858491-73fd-451f-ad8a-d7e713c3cf84": {
       "sequentialId": "b27",
@@ -490,7 +490,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "3024dbd6-2af6-496a-bd82-c54dd252d08b": {
       "sequentialId": "b28",
@@ -507,7 +507,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "16261e9c-eed4-4404-97fb-a2d20007fef8": {
       "sequentialId": "b29",
@@ -524,7 +524,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "cf496b66-02c2-47de-a77e-1c35f5165538": {
       "sequentialId": "b30",
@@ -541,7 +541,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "c42e6ded-7857-4997-9ba7-3ceda8cc0c3e": {
       "sequentialId": "b31",
@@ -558,7 +558,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "23cf5440-3c4f-4308-80f7-11f783c238e2": {
       "sequentialId": "b32",
@@ -575,7 +575,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "3ea3f5d4-fd3a-44b2-82c8-213ee3329317": {
       "sequentialId": "b33",
@@ -592,7 +592,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "13fb7f25-69a9-4116-bf08-944b5c836c13": {
       "sequentialId": "b34",
@@ -609,7 +609,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "dc84f548-9d45-4ec4-83e0-9c1147616ffb": {
       "sequentialId": "b35",
@@ -626,7 +626,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "4aea2be3-fd72-4056-9122-c7060f3c9251": {
       "sequentialId": "b36",
@@ -643,7 +643,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "7df7e363-b01b-41a9-ab80-5ce3230d5308": {
       "sequentialId": "b37",
@@ -660,7 +660,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "086ad5df-58d1-4763-b3c0-5909796bf472": {
       "sequentialId": "b38",
@@ -677,7 +677,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "a71fcb7b-e94b-4563-bd50-ca4d39d2293d": {
       "sequentialId": "b39",
@@ -694,7 +694,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "0dae5fe0-f196-447b-a353-c515813551a3": {
       "sequentialId": "b40",
@@ -711,7 +711,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "8151a4fb-1d64-4392-83e5-72d2bd035b6c": {
       "sequentialId": "b41",
@@ -728,7 +728,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "f780c57e-d1a2-494c-84d1-57018b9d2c6e": {
       "sequentialId": "b42",
@@ -745,7 +745,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "6fefc9bb-6e03-489c-9664-923177558b36": {
       "sequentialId": "b43",
@@ -762,7 +762,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "0fed6194-c8cf-4733-b608-a56ee57fc181": {
       "sequentialId": "b44",
@@ -779,7 +779,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "add63824-9a97-4d34-b2f3-861deb954573": {
       "sequentialId": "b45",
@@ -796,7 +796,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "d2a271a1-4621-4680-b857-f433729a3b32",
       "slideIndex": 3,
-      "slideTitle": "Att förstå onlineövergrepp"
+      "slideTitle": "Att förstå övergrepp online"
     },
     "9d165d11-29fb-4f7c-a253-4592737a6962": {
       "sequentialId": "b46",
@@ -813,7 +813,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "40ee2b87-2447-4418-8578-4450aaa9ade5": {
       "sequentialId": "b47",
@@ -830,7 +830,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "91fd1c2a-9c6c-443a-848c-4ac07b7d4aad": {
       "sequentialId": "b48",
@@ -847,7 +847,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "7e1a6eff-0185-4ba5-81b3-3bc0175d7fbb": {
       "sequentialId": "b49",
@@ -864,7 +864,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "0767372c-f6d2-48c6-b3e8-4b6d0c7b4ed7": {
       "sequentialId": "b50",
@@ -881,7 +881,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "9fdead01-4840-41f3-bd0e-37a5c291853e": {
       "sequentialId": "b51",
@@ -898,7 +898,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "80355e1f-88e4-4939-a3c1-a78baf7af996": {
       "sequentialId": "b52",
@@ -915,7 +915,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "28e1217a-7251-4c7c-8c5e-b3f36cdddc2e": {
       "sequentialId": "b53",
@@ -932,7 +932,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "d1031ad4-a80f-4e8d-826a-e3eea9702e92": {
       "sequentialId": "b54",
@@ -949,7 +949,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "433953ee-3520-44b0-8645-65398c81e017": {
       "sequentialId": "b55",
@@ -966,7 +966,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "81e7d674-629a-4bc8-94f1-b14bbb34b90e": {
       "sequentialId": "b56",
@@ -983,7 +983,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "afc99140-4107-4cf0-b4be-3c439bbf259e": {
       "sequentialId": "b57",
@@ -1000,7 +1000,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "84eeb3a6-d356-4533-aea2-d1e2d660becb": {
       "sequentialId": "b58",
@@ -1017,7 +1017,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "d4161d41-9fb8-4172-932e-8a9d625f093f": {
       "sequentialId": "b59",
@@ -1034,7 +1034,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "25e21587-336c-4a32-a162-6cf1e4588efa": {
       "sequentialId": "b60",
@@ -1051,7 +1051,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "ca5fe4f6-cddf-4204-9f25-0d0d3391d112": {
       "sequentialId": "b61",
@@ -1068,7 +1068,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "a72feb6a-c527-4c2c-8e8d-7dc669fdb39e": {
       "sequentialId": "b62",
@@ -1085,7 +1085,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "93502911-d78e-4140-b029-30ef58310168": {
       "sequentialId": "b63",
@@ -1102,7 +1102,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "e8fe5fdc-d7a0-47ca-96ff-7728de7695c1": {
       "sequentialId": "b64",
@@ -1119,7 +1119,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "b01a7797-5e9f-42aa-bd7f-e32f0ab35fb0": {
       "sequentialId": "b65",
@@ -1136,7 +1136,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s4",
       "slideOriginalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
       "slideIndex": 4,
-      "slideTitle": "Onlineövergrepp inom idrotten: Den mänskliga påverkan"
+      "slideTitle": "Övergrepp online inom idrotten: Den mänskliga påverkan"
     },
     "863dc788-e1b7-467e-8d44-e61227d2ab28": {
       "sequentialId": "b66",
@@ -1153,7 +1153,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "12666ef3-a644-4218-9a31-6f8144974fa6": {
       "sequentialId": "b67",
@@ -1170,7 +1170,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "fd9ed028-aba6-4920-bede-999e761a641a": {
       "sequentialId": "b68",
@@ -1187,7 +1187,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "19ffcba0-6f8d-4831-9d56-f039bfc4a802": {
       "sequentialId": "b69",
@@ -1204,7 +1204,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "efe9b030-608b-4453-b38b-7054dfa1a931": {
       "sequentialId": "b70",
@@ -1221,7 +1221,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "2a352d76-21aa-4df5-b5a0-2158afc8452e": {
       "sequentialId": "b71",
@@ -1238,7 +1238,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "85cfa760-423c-4ecb-96e1-6b7a59b79832": {
       "sequentialId": "b72",
@@ -1255,7 +1255,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "0a90f4fe-69ad-4074-8859-cc262459152b": {
       "sequentialId": "b73",
@@ -1272,7 +1272,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "33e54365-a6ff-4ad7-a7f6-2a0a7ce1d196": {
       "sequentialId": "b74",
@@ -1289,7 +1289,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "96b6fcad-eb49-41da-8881-5544bcf54eb8": {
       "sequentialId": "b75",
@@ -1306,7 +1306,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "1db17a9d-50db-477f-83d2-616addcf860c": {
       "sequentialId": "b76",
@@ -1323,7 +1323,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "865c20b2-b085-4c03-ab74-70dbbbb33a90": {
       "sequentialId": "b77",
@@ -1340,7 +1340,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "5cdfd753-6ed7-4840-a174-10b2de644cca": {
       "sequentialId": "b78",
@@ -1357,7 +1357,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "0b9e68a0-3011-416b-a3df-6aea69aecb1f": {
       "sequentialId": "b79",
@@ -1374,7 +1374,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "1918c074-d11a-435f-a460-3eea50efb667": {
       "sequentialId": "b80",
@@ -1391,7 +1391,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "89b385c3-ccd7-4592-9955-83c4d891412d": {
       "sequentialId": "b81",
@@ -1408,7 +1408,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "ea235647-18d5-4224-8633-9056f1b3ef9f": {
       "sequentialId": "b82",
@@ -1425,7 +1425,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "c5568a5d-02dc-4423-bcf0-34d0bdffc144": {
       "sequentialId": "b83",
@@ -1442,7 +1442,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "f1f9703d-4de0-40e4-9cba-b27594e94218": {
       "sequentialId": "b84",
@@ -1459,7 +1459,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "ea9b43dd-3587-4cb9-98bf-ffe57ccc9232": {
       "sequentialId": "b85",
@@ -1476,7 +1476,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "3e909e67-7ef2-4265-8cd9-35d7ce9921ea": {
       "sequentialId": "b86",
@@ -1493,7 +1493,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "061eae04-c234-4b2e-8b3b-849fac661d9b": {
       "sequentialId": "b87",
@@ -1510,7 +1510,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "2a9b7265-3c8e-4617-a0e8-558efa50b300": {
       "sequentialId": "b88",
@@ -1527,7 +1527,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "ac380746-37df-4f9f-8022-24c3be93ae9a": {
       "sequentialId": "b89",
@@ -1544,7 +1544,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "08522055-f95f-4bac-8357-357c0df19c56": {
       "sequentialId": "b90",
@@ -1561,7 +1561,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "5e4bbd03-a53c-45ed-9b89-45f26671f75f": {
       "sequentialId": "b91",
@@ -1578,7 +1578,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "591acd37-a136-442c-8417-49a31f99a529": {
       "sequentialId": "b92",
@@ -1595,7 +1595,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "19d47bee-3d81-4374-936b-054e121f4ac6": {
       "sequentialId": "b93",
@@ -1612,7 +1612,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "ec408cba-a9b7-4604-81be-408b9a5b0fec": {
       "sequentialId": "b94",
@@ -1629,7 +1629,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "337a3942-dc26-4ae2-b6f1-befc75a6fac9": {
       "sequentialId": "b95",
@@ -1646,7 +1646,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "22839165-82c7-4ea6-97e9-d2b2b5120afe": {
       "sequentialId": "b96",
@@ -1663,7 +1663,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "f041cf14-eaf0-4c20-ac86-873062ce638e": {
       "sequentialId": "b97",
@@ -1680,7 +1680,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "59babb1f-2e2b-4788-92d9-432926526207": {
       "sequentialId": "b98",
@@ -1697,7 +1697,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "169b3d7f-eef3-4dd7-9fd2-57c1c66c57b3": {
       "sequentialId": "b99",
@@ -1714,7 +1714,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
       "slideIndex": 5,
-      "slideTitle": "Hur skada online sprids"
+      "slideTitle": "Hur skadliga online beteenden och innehåll sprids"
     },
     "42afbfb2-27c4-4373-9d6a-fee23defbb96": {
       "sequentialId": "b100",
@@ -2654,7 +2654,8 @@ window.__BLOCK_ID_MAPPING__ = {
         "b2",
         "b3",
         "b4",
-        "b5"
+        "b5",
+        "b6"
       ]
     },
     "6f91bcf3-c879-4281-a87d-18f06ec9e2ea": {
@@ -2667,7 +2668,6 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Välkommen",
       "index": 1,
       "blockIds": [
-        "b6",
         "b7",
         "b8",
         "b9",
@@ -2702,7 +2702,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "s3": {
       "originalId": "d2a271a1-4621-4680-b857-f433729a3b32",
-      "title": "Att förstå onlineövergrepp",
+      "title": "Att förstå övergrepp online",
       "index": 3,
       "blockIds": [
         "b20",
@@ -2736,12 +2736,12 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "d2a271a1-4621-4680-b857-f433729a3b32": {
       "sequentialId": "s3",
-      "title": "Att förstå onlineövergrepp",
+      "title": "Att förstå övergrepp online",
       "index": 3
     },
     "s4": {
       "originalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
-      "title": "Onlineövergrepp inom idrotten: Den mänskliga påverkan",
+      "title": "Övergrepp online inom idrotten: Den mänskliga påverkan",
       "index": 4,
       "blockIds": [
         "b47",
@@ -2768,12 +2768,12 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9": {
       "sequentialId": "s4",
-      "title": "Onlineövergrepp inom idrotten: Den mänskliga påverkan",
+      "title": "Övergrepp online inom idrotten: Den mänskliga påverkan",
       "index": 4
     },
     "s5": {
       "originalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
-      "title": "Hur skada online sprids",
+      "title": "Hur skadliga online beteenden och innehåll sprids",
       "index": 5,
       "blockIds": [
         "b67",
@@ -2814,7 +2814,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "96d23001-90e5-417b-99cd-50a42489eaf0": {
       "sequentialId": "s5",
-      "title": "Hur skada online sprids",
+      "title": "Hur skadliga online beteenden och innehåll sprids",
       "index": 5
     },
     "s6": {
@@ -2951,21 +2951,26 @@ window.__BLOCK_ID_MAPPING__ = {
         },
         {
           "id": "b2",
+          "originalId": "dee0367e-3d7d-4c7f-bfd4-7f67ce2a51f3",
+          "type": "video"
+        },
+        {
+          "id": "b3",
           "originalId": "5afa64ea-764e-4827-bd0e-1fca5c00b11d",
           "type": "text"
         },
         {
-          "id": "b3",
+          "id": "b4",
           "originalId": "e1c5932f-9930-4fc0-ad64-e553d92df262",
           "type": "embed"
         },
         {
-          "id": "b4",
+          "id": "b5",
           "originalId": "7ff40666-2e14-4f4a-8d3e-a61adeeb64e2",
           "type": "text"
         },
         {
-          "id": "b5",
+          "id": "b6",
           "originalId": "1e88aded-4ce0-4a46-9807-44ae2c5531bc",
           "type": "text"
         }
@@ -2978,24 +2983,19 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 1,
       "blocks": [
         {
-          "id": "b6",
+          "id": "b7",
           "originalId": "3fed1916-c06a-4476-8ce0-436dec1e40a8",
           "type": "embed"
         },
         {
-          "id": "b7",
+          "id": "b8",
           "originalId": "af918a85-8dd0-438d-9424-29cc34cb416f",
           "type": "image"
         },
         {
-          "id": "b8",
+          "id": "b9",
           "originalId": "0799bb93-1951-4a7d-921c-78f8dd1daac1",
           "type": "text"
-        },
-        {
-          "id": "b9",
-          "originalId": "dee0367e-3d7d-4c7f-bfd4-7f67ce2a51f3",
-          "type": "video"
         },
         {
           "id": "b10",
@@ -3060,7 +3060,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s3",
       "originalId": "d2a271a1-4621-4680-b857-f433729a3b32",
-      "title": "Att förstå onlineövergrepp",
+      "title": "Att förstå övergrepp online",
       "index": 3,
       "blocks": [
         {
@@ -3203,7 +3203,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s4",
       "originalId": "dbf35b25-ec46-42dc-ad7e-e74d7a54f2d9",
-      "title": "Onlineövergrepp inom idrotten: Den mänskliga påverkan",
+      "title": "Övergrepp online inom idrotten: Den mänskliga påverkan",
       "index": 4,
       "blocks": [
         {
@@ -3311,7 +3311,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s5",
       "originalId": "96d23001-90e5-417b-99cd-50a42489eaf0",
-      "title": "Hur skada online sprids",
+      "title": "Hur skadliga online beteenden och innehåll sprids",
       "index": 5,
       "blocks": [
         {
@@ -3803,8 +3803,8 @@ window.__BLOCK_ID_MAPPING__ = {
     "blockTypes": [
       "text",
       "image",
-      "embed",
       "video",
+      "embed",
       "separator",
       "navigation_button",
       "slide_intro"
