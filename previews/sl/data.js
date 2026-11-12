@@ -1,10 +1,10 @@
 // Block ID Mapping
-// Generated: 2026-11-11T18:16:37.821Z
+// Generated: 2026-11-12T03:16:31.068Z
 // Course: UAOA eLearning Course (SL)
 window.__BLOCK_ID_MAPPING__ = {
   "courseId": "26c31aca-8ef6-4d2c-a418-52ac271989f5",
   "courseTitle": "UAOA eLearning Course (SL)",
-  "generatedAt": "2026-11-11T18:16:37.821Z",
+  "generatedAt": "2026-11-12T03:16:31.068Z",
   "version": "1.0",
   "blocks": {
     "b0": {
@@ -14,7 +14,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s0",
       "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
       "slideIndex": 0,
-      "slideTitle": "O tem tečaju"
+      "slideTitle": "O tečaju"
     },
     "514b777c-d2bf-4763-bcde-3f2ee7cf6b06": {
       "sequentialId": "b0",
@@ -31,7 +31,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s0",
       "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
       "slideIndex": 0,
-      "slideTitle": "O tem tečaju"
+      "slideTitle": "O tečaju"
     },
     "3bfc4e06-a209-4137-bff0-46c27ac1affc": {
       "sequentialId": "b1",
@@ -42,74 +42,91 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 0
     },
     "b2": {
+      "originalId": "ab492ea6-d702-4d11-9090-8a856c769645",
+      "type": "video",
+      "variant": "video",
+      "slideId": "s0",
+      "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
+      "slideIndex": 0,
+      "slideTitle": "O tečaju"
+    },
+    "ab492ea6-d702-4d11-9090-8a856c769645": {
+      "sequentialId": "b2",
+      "type": "video",
+      "variant": "video",
+      "slideId": "s0",
+      "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
+      "slideIndex": 0
+    },
+    "b3": {
       "originalId": "9a713d58-0415-4283-9073-b4edee754f6e",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
       "slideIndex": 0,
-      "slideTitle": "O tem tečaju"
+      "slideTitle": "O tečaju"
     },
     "9a713d58-0415-4283-9073-b4edee754f6e": {
-      "sequentialId": "b2",
+      "sequentialId": "b3",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
       "slideIndex": 0
     },
-    "b3": {
+    "b4": {
       "originalId": "80fe3077-2c3b-4caa-80d8-ec3874779cfe",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s0",
       "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
       "slideIndex": 0,
-      "slideTitle": "O tem tečaju"
+      "slideTitle": "O tečaju"
     },
     "80fe3077-2c3b-4caa-80d8-ec3874779cfe": {
-      "sequentialId": "b3",
+      "sequentialId": "b4",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s0",
       "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
       "slideIndex": 0
     },
-    "b4": {
+    "b5": {
       "originalId": "8aa4d044-c164-4e4f-96a6-86656216fd08",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s0",
       "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
       "slideIndex": 0,
-      "slideTitle": "O tem tečaju"
+      "slideTitle": "O tečaju"
     },
     "8aa4d044-c164-4e4f-96a6-86656216fd08": {
-      "sequentialId": "b4",
+      "sequentialId": "b5",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s0",
       "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
       "slideIndex": 0
     },
-    "b5": {
+    "b6": {
       "originalId": "e6d311fa-c4f3-4475-b2d0-31b3d67c1d1b",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
       "slideIndex": 0,
-      "slideTitle": "O tem tečaju"
+      "slideTitle": "O tečaju"
     },
     "e6d311fa-c4f3-4475-b2d0-31b3d67c1d1b": {
-      "sequentialId": "b5",
+      "sequentialId": "b6",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
       "slideIndex": 0
     },
-    "b6": {
+    "b7": {
       "originalId": "1f491389-58b4-4914-b380-070611148333",
       "type": "embed",
       "variant": "iframe",
@@ -119,14 +136,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Dobrodošli"
     },
     "1f491389-58b4-4914-b380-070611148333": {
-      "sequentialId": "b6",
+      "sequentialId": "b7",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s1",
       "slideOriginalId": "26817d8b-19e6-4435-b33e-f5f9e8365365",
       "slideIndex": 1
     },
-    "b7": {
+    "b8": {
       "originalId": "58454ca4-b213-49ca-a090-89ca6bcadaf1",
       "type": "image",
       "variant": "text_on_image",
@@ -136,14 +153,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Dobrodošli"
     },
     "58454ca4-b213-49ca-a090-89ca6bcadaf1": {
-      "sequentialId": "b7",
+      "sequentialId": "b8",
       "type": "image",
       "variant": "text_on_image",
       "slideId": "s1",
       "slideOriginalId": "26817d8b-19e6-4435-b33e-f5f9e8365365",
       "slideIndex": 1
     },
-    "b8": {
+    "b9": {
       "originalId": "b523bd4f-684d-4464-8834-6a3d79022f5a",
       "type": "text",
       "variant": "paragraph",
@@ -153,26 +170,9 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Dobrodošli"
     },
     "b523bd4f-684d-4464-8834-6a3d79022f5a": {
-      "sequentialId": "b8",
+      "sequentialId": "b9",
       "type": "text",
       "variant": "paragraph",
-      "slideId": "s1",
-      "slideOriginalId": "26817d8b-19e6-4435-b33e-f5f9e8365365",
-      "slideIndex": 1
-    },
-    "b9": {
-      "originalId": "ab492ea6-d702-4d11-9090-8a856c769645",
-      "type": "video",
-      "variant": "video",
-      "slideId": "s1",
-      "slideOriginalId": "26817d8b-19e6-4435-b33e-f5f9e8365365",
-      "slideIndex": 1,
-      "slideTitle": "Dobrodošli"
-    },
-    "ab492ea6-d702-4d11-9090-8a856c769645": {
-      "sequentialId": "b9",
-      "type": "video",
-      "variant": "video",
       "slideId": "s1",
       "slideOriginalId": "26817d8b-19e6-4435-b33e-f5f9e8365365",
       "slideIndex": 1
@@ -1153,7 +1153,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "059f69b8-7af7-417f-b8c8-c3a1ff486d2b": {
       "sequentialId": "b67",
@@ -1170,7 +1170,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "80c220f8-a6fa-4ab9-a77a-ce6df60f8657": {
       "sequentialId": "b68",
@@ -1187,7 +1187,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "baf8f51b-bcc4-4501-a391-a2d6e94e136e": {
       "sequentialId": "b69",
@@ -1204,7 +1204,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "72ffae7e-b60b-495b-9b7f-875079962056": {
       "sequentialId": "b70",
@@ -1221,7 +1221,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "84083b9a-b22f-4d8f-b812-566bca90e398": {
       "sequentialId": "b71",
@@ -1238,7 +1238,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "2cbc39be-6300-4f26-a026-75d4bc376ba7": {
       "sequentialId": "b72",
@@ -1255,7 +1255,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "50147e4d-0538-40a8-9677-779d191b6cc3": {
       "sequentialId": "b73",
@@ -1272,7 +1272,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "19feb86b-e5e4-4d1f-9b7a-48ef519cad27": {
       "sequentialId": "b74",
@@ -1289,7 +1289,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "c092eb5b-e1f0-4909-9978-f0e670814274": {
       "sequentialId": "b75",
@@ -1306,7 +1306,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "cfe1514e-e079-4df4-ad2c-7e6686b1cd3a": {
       "sequentialId": "b76",
@@ -1323,7 +1323,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "9fede9e2-1a76-4971-a86d-6c993562a0a8": {
       "sequentialId": "b77",
@@ -1340,7 +1340,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "e7af53ef-3bd4-4897-afbd-a255ece264f8": {
       "sequentialId": "b78",
@@ -1357,7 +1357,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "ec7a0e19-4fa9-4320-b034-4db47eee968e": {
       "sequentialId": "b79",
@@ -1374,7 +1374,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "68c55c0a-3a12-4c52-b514-b06e4bcfb5f0": {
       "sequentialId": "b80",
@@ -1391,7 +1391,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "a8f95cdd-6a0a-49c3-b122-c0572af232a1": {
       "sequentialId": "b81",
@@ -1408,7 +1408,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "223e6f19-5d49-4025-9ccf-76a901645bf1": {
       "sequentialId": "b82",
@@ -1425,7 +1425,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "19fa431d-1e03-48cb-8193-f15e2df34caa": {
       "sequentialId": "b83",
@@ -1442,7 +1442,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "a8c54b94-8872-4ada-a45b-7c061d2e1efa": {
       "sequentialId": "b84",
@@ -1459,7 +1459,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "2aac4c02-cf77-4460-a026-c6435e0c454e": {
       "sequentialId": "b85",
@@ -1476,7 +1476,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "1584a770-2dfc-4b57-a30e-ecf113fa2176": {
       "sequentialId": "b86",
@@ -1493,7 +1493,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "302f6dbc-398d-4787-b142-2a019bff070e": {
       "sequentialId": "b87",
@@ -1510,7 +1510,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "86a8af24-ca5b-45ea-8fe1-0c8c93447eb6": {
       "sequentialId": "b88",
@@ -1527,7 +1527,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "8a0a2768-38a5-4c11-902f-0bf11d423bae": {
       "sequentialId": "b89",
@@ -1544,7 +1544,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "c902ba12-0677-462b-a879-f303d7700a09": {
       "sequentialId": "b90",
@@ -1561,7 +1561,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "9816debe-8ce6-4c3c-9643-75e55f4d059a": {
       "sequentialId": "b91",
@@ -1578,7 +1578,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "e8ab4cf8-9b60-4c55-a17d-cf840075b44f": {
       "sequentialId": "b92",
@@ -1595,7 +1595,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "356bd84c-ffa1-4be0-8742-8044e5fd4009": {
       "sequentialId": "b93",
@@ -1612,7 +1612,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "6bb096d6-c2cd-40ca-80c4-8dde77060efd": {
       "sequentialId": "b94",
@@ -1629,7 +1629,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "8d65597e-c387-4a82-8be6-fa60956ebb55": {
       "sequentialId": "b95",
@@ -1646,7 +1646,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "41019b72-bd7c-4ee6-9d84-71968e9a13d0": {
       "sequentialId": "b96",
@@ -1663,7 +1663,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "6340b660-742c-420f-826a-d779b0a4a57d": {
       "sequentialId": "b97",
@@ -1680,7 +1680,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "88c513d3-93d4-49cd-9197-5b0617066c31": {
       "sequentialId": "b98",
@@ -1697,7 +1697,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "c43dbb99-78d2-4f8f-91b4-afb7aed9e8d3": {
       "sequentialId": "b99",
@@ -1714,7 +1714,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
       "slideIndex": 5,
-      "slideTitle": "Kako se širi spletna škoda"
+      "slideTitle": "Kako se širijo škodljive spletne vsebine"
     },
     "360a01d3-47a5-46e2-97ee-c064d2350547": {
       "sequentialId": "b100",
@@ -2646,7 +2646,7 @@ window.__BLOCK_ID_MAPPING__ = {
   "slides": {
     "s0": {
       "originalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
-      "title": "O tem tečaju",
+      "title": "O tečaju",
       "index": 0,
       "blockIds": [
         "b0",
@@ -2654,12 +2654,13 @@ window.__BLOCK_ID_MAPPING__ = {
         "b2",
         "b3",
         "b4",
-        "b5"
+        "b5",
+        "b6"
       ]
     },
     "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932": {
       "sequentialId": "s0",
-      "title": "O tem tečaju",
+      "title": "O tečaju",
       "index": 0
     },
     "s1": {
@@ -2667,7 +2668,6 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Dobrodošli",
       "index": 1,
       "blockIds": [
-        "b6",
         "b7",
         "b8",
         "b9",
@@ -2773,7 +2773,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "s5": {
       "originalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
-      "title": "Kako se širi spletna škoda",
+      "title": "Kako se širijo škodljive spletne vsebine",
       "index": 5,
       "blockIds": [
         "b67",
@@ -2814,7 +2814,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "27f2c366-f6a2-473b-8466-bbbd46e84ceb": {
       "sequentialId": "s5",
-      "title": "Kako se širi spletna škoda",
+      "title": "Kako se širijo škodljive spletne vsebine",
       "index": 5
     },
     "s6": {
@@ -2936,7 +2936,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s0",
       "originalId": "0d5a8afe-b03d-4bd5-9ad3-8ac33198a932",
-      "title": "O tem tečaju",
+      "title": "O tečaju",
       "index": 0,
       "blocks": [
         {
@@ -2951,21 +2951,26 @@ window.__BLOCK_ID_MAPPING__ = {
         },
         {
           "id": "b2",
+          "originalId": "ab492ea6-d702-4d11-9090-8a856c769645",
+          "type": "video"
+        },
+        {
+          "id": "b3",
           "originalId": "9a713d58-0415-4283-9073-b4edee754f6e",
           "type": "text"
         },
         {
-          "id": "b3",
+          "id": "b4",
           "originalId": "80fe3077-2c3b-4caa-80d8-ec3874779cfe",
           "type": "embed"
         },
         {
-          "id": "b4",
+          "id": "b5",
           "originalId": "8aa4d044-c164-4e4f-96a6-86656216fd08",
           "type": "text"
         },
         {
-          "id": "b5",
+          "id": "b6",
           "originalId": "e6d311fa-c4f3-4475-b2d0-31b3d67c1d1b",
           "type": "text"
         }
@@ -2978,24 +2983,19 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 1,
       "blocks": [
         {
-          "id": "b6",
+          "id": "b7",
           "originalId": "1f491389-58b4-4914-b380-070611148333",
           "type": "embed"
         },
         {
-          "id": "b7",
+          "id": "b8",
           "originalId": "58454ca4-b213-49ca-a090-89ca6bcadaf1",
           "type": "image"
         },
         {
-          "id": "b8",
+          "id": "b9",
           "originalId": "b523bd4f-684d-4464-8834-6a3d79022f5a",
           "type": "text"
-        },
-        {
-          "id": "b9",
-          "originalId": "ab492ea6-d702-4d11-9090-8a856c769645",
-          "type": "video"
         },
         {
           "id": "b10",
@@ -3311,7 +3311,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s5",
       "originalId": "27f2c366-f6a2-473b-8466-bbbd46e84ceb",
-      "title": "Kako se širi spletna škoda",
+      "title": "Kako se širijo škodljive spletne vsebine",
       "index": 5,
       "blocks": [
         {
@@ -3803,8 +3803,8 @@ window.__BLOCK_ID_MAPPING__ = {
     "blockTypes": [
       "text",
       "image",
-      "embed",
       "video",
+      "embed",
       "separator",
       "navigation_button",
       "slide_intro"
