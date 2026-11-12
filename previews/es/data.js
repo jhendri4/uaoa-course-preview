@@ -1,10 +1,10 @@
 // Block ID Mapping
-// Generated: 2026-11-11T18:16:17.889Z
+// Generated: 2026-11-12T03:16:48.617Z
 // Course: UAOA eLearning Course (ES)
 window.__BLOCK_ID_MAPPING__ = {
   "courseId": "f5dd6757-5d61-4809-9a42-c190612d5038",
   "courseTitle": "UAOA eLearning Course (ES)",
-  "generatedAt": "2026-11-11T18:16:17.889Z",
+  "generatedAt": "2026-11-12T03:16:48.617Z",
   "version": "1.0",
   "blocks": {
     "b0": {
@@ -42,6 +42,23 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 0
     },
     "b2": {
+      "originalId": "d00a7eef-b1bc-493a-9068-64fafea0c3da",
+      "type": "video",
+      "variant": "video",
+      "slideId": "s0",
+      "slideOriginalId": "12044f3c-3575-4c55-9a8b-a5a6cde4226a",
+      "slideIndex": 0,
+      "slideTitle": "Acerca de este curso"
+    },
+    "d00a7eef-b1bc-493a-9068-64fafea0c3da": {
+      "sequentialId": "b2",
+      "type": "video",
+      "variant": "video",
+      "slideId": "s0",
+      "slideOriginalId": "12044f3c-3575-4c55-9a8b-a5a6cde4226a",
+      "slideIndex": 0
+    },
+    "b3": {
       "originalId": "0311d2e6-ea3c-4ce7-99eb-2cf97c19d31a",
       "type": "text",
       "variant": "subheading",
@@ -51,14 +68,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Acerca de este curso"
     },
     "0311d2e6-ea3c-4ce7-99eb-2cf97c19d31a": {
-      "sequentialId": "b2",
+      "sequentialId": "b3",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "12044f3c-3575-4c55-9a8b-a5a6cde4226a",
       "slideIndex": 0
     },
-    "b3": {
+    "b4": {
       "originalId": "5807dea0-9a1f-4ae4-abb6-3f55519bdbd1",
       "type": "embed",
       "variant": "iframe",
@@ -68,14 +85,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Acerca de este curso"
     },
     "5807dea0-9a1f-4ae4-abb6-3f55519bdbd1": {
-      "sequentialId": "b3",
+      "sequentialId": "b4",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s0",
       "slideOriginalId": "12044f3c-3575-4c55-9a8b-a5a6cde4226a",
       "slideIndex": 0
     },
-    "b4": {
+    "b5": {
       "originalId": "1b5ae3f3-b249-4a0a-8aa6-6be1f779196c",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -85,14 +102,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Acerca de este curso"
     },
     "1b5ae3f3-b249-4a0a-8aa6-6be1f779196c": {
-      "sequentialId": "b4",
+      "sequentialId": "b5",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s0",
       "slideOriginalId": "12044f3c-3575-4c55-9a8b-a5a6cde4226a",
       "slideIndex": 0
     },
-    "b5": {
+    "b6": {
       "originalId": "1b3e8e6e-c38e-4681-ac12-d33ea152e8d7",
       "type": "text",
       "variant": "subheading",
@@ -102,14 +119,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Acerca de este curso"
     },
     "1b3e8e6e-c38e-4681-ac12-d33ea152e8d7": {
-      "sequentialId": "b5",
+      "sequentialId": "b6",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "12044f3c-3575-4c55-9a8b-a5a6cde4226a",
       "slideIndex": 0
     },
-    "b6": {
+    "b7": {
       "originalId": "5a5893e1-c856-49a0-a759-57bbf85df7ce",
       "type": "embed",
       "variant": "iframe",
@@ -119,14 +136,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Bienvenido"
     },
     "5a5893e1-c856-49a0-a759-57bbf85df7ce": {
-      "sequentialId": "b6",
+      "sequentialId": "b7",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s1",
       "slideOriginalId": "1ed22253-51b7-4296-9209-30872063e6cb",
       "slideIndex": 1
     },
-    "b7": {
+    "b8": {
       "originalId": "b863c3b6-bdd5-41ee-ac83-6b87fa422c7a",
       "type": "image",
       "variant": "text_on_image",
@@ -136,14 +153,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Bienvenido"
     },
     "b863c3b6-bdd5-41ee-ac83-6b87fa422c7a": {
-      "sequentialId": "b7",
+      "sequentialId": "b8",
       "type": "image",
       "variant": "text_on_image",
       "slideId": "s1",
       "slideOriginalId": "1ed22253-51b7-4296-9209-30872063e6cb",
       "slideIndex": 1
     },
-    "b8": {
+    "b9": {
       "originalId": "1829065e-e7b7-4a44-b141-3050e597448a",
       "type": "text",
       "variant": "paragraph",
@@ -153,26 +170,9 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Bienvenido"
     },
     "1829065e-e7b7-4a44-b141-3050e597448a": {
-      "sequentialId": "b8",
+      "sequentialId": "b9",
       "type": "text",
       "variant": "paragraph",
-      "slideId": "s1",
-      "slideOriginalId": "1ed22253-51b7-4296-9209-30872063e6cb",
-      "slideIndex": 1
-    },
-    "b9": {
-      "originalId": "d00a7eef-b1bc-493a-9068-64fafea0c3da",
-      "type": "video",
-      "variant": "video",
-      "slideId": "s1",
-      "slideOriginalId": "1ed22253-51b7-4296-9209-30872063e6cb",
-      "slideIndex": 1,
-      "slideTitle": "Bienvenido"
-    },
-    "d00a7eef-b1bc-493a-9068-64fafea0c3da": {
-      "sequentialId": "b9",
-      "type": "video",
-      "variant": "video",
       "slideId": "s1",
       "slideOriginalId": "1ed22253-51b7-4296-9209-30872063e6cb",
       "slideIndex": 1
@@ -354,7 +354,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "8e99787d-2c1e-40dd-9652-f3e5a3db81d7": {
       "sequentialId": "b20",
@@ -371,7 +371,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "7548e316-6e99-4dd2-be35-0e0a3cdaa3bf": {
       "sequentialId": "b21",
@@ -388,7 +388,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "608a380a-3f69-4874-a159-e9f025445f49": {
       "sequentialId": "b22",
@@ -405,7 +405,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "8544657f-5447-46b2-ae46-059a4d910126": {
       "sequentialId": "b23",
@@ -422,7 +422,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "f42eeeb1-f1fc-46bb-b23c-a9bbf290a127": {
       "sequentialId": "b24",
@@ -439,7 +439,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "7e035746-b957-4d4a-bd01-247f2218d91c": {
       "sequentialId": "b25",
@@ -456,7 +456,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "a8326819-65af-4438-a6e3-2113951e4f90": {
       "sequentialId": "b26",
@@ -473,7 +473,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "253e1ee5-4408-4223-b055-c4ead1095d29": {
       "sequentialId": "b27",
@@ -490,7 +490,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "ba6a4de5-3832-4c82-b0b4-0361822005e5": {
       "sequentialId": "b28",
@@ -507,7 +507,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "1b66343a-8fb1-4700-9bd8-dd93e84fcf45": {
       "sequentialId": "b29",
@@ -524,7 +524,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "b4c16885-a442-423c-a489-ee11866f0fef": {
       "sequentialId": "b30",
@@ -541,7 +541,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "54ce8471-0a62-4695-823a-d811fbeef87d": {
       "sequentialId": "b31",
@@ -558,7 +558,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "d701a986-e912-44a9-bc63-67901893e4f0": {
       "sequentialId": "b32",
@@ -575,7 +575,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "5e9abd73-c05e-4110-984b-2db5491a7187": {
       "sequentialId": "b33",
@@ -592,7 +592,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "385c40d5-b427-4c9c-8dcb-fe5095141401": {
       "sequentialId": "b34",
@@ -609,7 +609,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "0bada374-62bf-4216-b23c-1d848156af06": {
       "sequentialId": "b35",
@@ -626,7 +626,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "bcc9d4f9-c22c-4e2d-a8b4-6302354eb75c": {
       "sequentialId": "b36",
@@ -643,7 +643,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "b273f382-c0f9-4cf7-832c-9eb5d7325f42": {
       "sequentialId": "b37",
@@ -660,7 +660,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "a1b99752-e1e1-4758-a5e0-96349c54b212": {
       "sequentialId": "b38",
@@ -677,7 +677,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "63f51e11-84b5-4fd9-8821-2dd0e5d98fd7": {
       "sequentialId": "b39",
@@ -694,7 +694,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "30cb13ae-de28-47d0-81a8-fd0298e9caf6": {
       "sequentialId": "b40",
@@ -711,7 +711,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "5131b0a0-81de-4e79-8402-fce284500c90": {
       "sequentialId": "b41",
@@ -728,7 +728,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "6ac7ad80-4ed1-4e76-ad2e-9f94a4df903c": {
       "sequentialId": "b42",
@@ -745,7 +745,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "b204010e-e3d2-4e8f-8a8f-425b35328aa2": {
       "sequentialId": "b43",
@@ -762,7 +762,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "e549d42b-a22d-468b-837a-7944cd33feb4": {
       "sequentialId": "b44",
@@ -779,7 +779,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "ed96143a-7cdf-47e4-8031-705109cbe824": {
       "sequentialId": "b45",
@@ -796,7 +796,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s3",
       "slideOriginalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
       "slideIndex": 3,
-      "slideTitle": "Comprender el abuso en línea"
+      "slideTitle": "Comprendiendo el abuso en línea"
     },
     "11b1c9e7-ad61-433d-8262-58a0713505e4": {
       "sequentialId": "b46",
@@ -1731,7 +1731,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "c01bf351-f20b-4101-9cd6-371a16bbf699": {
       "sequentialId": "b101",
@@ -1748,7 +1748,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "147afe55-d598-4675-94ed-d5ff75851cab": {
       "sequentialId": "b102",
@@ -1765,7 +1765,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "e10e099d-f17b-4fe4-b60a-fbf83862361f": {
       "sequentialId": "b103",
@@ -1782,7 +1782,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "abe2db4f-4113-4577-a1a1-72234b0bdeb5": {
       "sequentialId": "b104",
@@ -1799,7 +1799,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "e72cbdb8-8518-495e-8d4f-44ee6abe4d3f": {
       "sequentialId": "b105",
@@ -1816,7 +1816,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "80aad72e-4083-4140-9bdd-8f4914602e2d": {
       "sequentialId": "b106",
@@ -1833,7 +1833,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "1349f21e-6d37-45fe-92a2-e2a6c67ee693": {
       "sequentialId": "b107",
@@ -1850,7 +1850,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "48af9035-3625-474e-b004-3eac0174d9c2": {
       "sequentialId": "b108",
@@ -1867,7 +1867,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "4fb409ed-3472-4027-889f-459e2b992444": {
       "sequentialId": "b109",
@@ -1884,7 +1884,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "1c47624f-d051-4c7c-b969-8df7db6031bc": {
       "sequentialId": "b110",
@@ -1901,7 +1901,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "8b65afd7-7e16-4e35-98a3-0337feb4032e": {
       "sequentialId": "b111",
@@ -1918,7 +1918,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "a4b8e4ed-5f99-47d9-a21c-0ac383f423c4": {
       "sequentialId": "b112",
@@ -1935,7 +1935,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "76f0f96e-4940-418f-9afe-3df81f6b3a0f": {
       "sequentialId": "b113",
@@ -1952,7 +1952,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "6926e8fd-c7e0-4a45-96eb-90ded9fbfaba": {
       "sequentialId": "b114",
@@ -1969,7 +1969,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "ec034f9a-c7cc-44bb-9705-d2d7cdb3adf9": {
       "sequentialId": "b115",
@@ -1986,7 +1986,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "1abd6fb5-934e-4a79-9c71-ca901bbae5d5": {
       "sequentialId": "b116",
@@ -2003,7 +2003,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "b8ac82e3-fb54-4774-b7a2-9159b7ec0181": {
       "sequentialId": "b117",
@@ -2020,7 +2020,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "7c404ffa-be32-4539-819e-dc47c647cf97": {
       "sequentialId": "b118",
@@ -2037,7 +2037,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "449e9b43-aeb2-419a-9fd8-6c48d444fe17": {
       "sequentialId": "b119",
@@ -2054,7 +2054,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "d3acef05-4ac9-4e59-9755-1777a084e9cf": {
       "sequentialId": "b120",
@@ -2071,7 +2071,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "a71b54f6-c390-44ca-aaa0-a40c768575c9": {
       "sequentialId": "b121",
@@ -2088,7 +2088,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "e170a415-0d7d-4431-a796-3cbef70a7851": {
       "sequentialId": "b122",
@@ -2105,7 +2105,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "fc7d6e7e-0366-4025-bd91-3333d5589fe0": {
       "sequentialId": "b123",
@@ -2122,7 +2122,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "75c76ad5-464b-4a1a-b76e-77b8802759a0": {
       "sequentialId": "b124",
@@ -2139,7 +2139,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s6",
       "slideOriginalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
       "slideIndex": 6,
-      "slideTitle": "Conozca sus derechos y responsabilidades"
+      "slideTitle": "Conociendo tus derechos y responsabilidades"
     },
     "f7a169ad-a2d2-446d-ac47-dd33f50c805c": {
       "sequentialId": "b125",
@@ -2654,7 +2654,8 @@ window.__BLOCK_ID_MAPPING__ = {
         "b2",
         "b3",
         "b4",
-        "b5"
+        "b5",
+        "b6"
       ]
     },
     "12044f3c-3575-4c55-9a8b-a5a6cde4226a": {
@@ -2667,7 +2668,6 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Bienvenido",
       "index": 1,
       "blockIds": [
-        "b6",
         "b7",
         "b8",
         "b9",
@@ -2702,7 +2702,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "s3": {
       "originalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
-      "title": "Comprender el abuso en línea",
+      "title": "Comprendiendo el abuso en línea",
       "index": 3,
       "blockIds": [
         "b20",
@@ -2736,7 +2736,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "c1674b81-d0b5-45ea-9fad-aa80ac0bc496": {
       "sequentialId": "s3",
-      "title": "Comprender el abuso en línea",
+      "title": "Comprendiendo el abuso en línea",
       "index": 3
     },
     "s4": {
@@ -2819,7 +2819,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "s6": {
       "originalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
-      "title": "Conozca sus derechos y responsabilidades",
+      "title": "Conociendo tus derechos y responsabilidades",
       "index": 6,
       "blockIds": [
         "b101",
@@ -2851,7 +2851,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d": {
       "sequentialId": "s6",
-      "title": "Conozca sus derechos y responsabilidades",
+      "title": "Conociendo tus derechos y responsabilidades",
       "index": 6
     },
     "s7": {
@@ -2951,21 +2951,26 @@ window.__BLOCK_ID_MAPPING__ = {
         },
         {
           "id": "b2",
+          "originalId": "d00a7eef-b1bc-493a-9068-64fafea0c3da",
+          "type": "video"
+        },
+        {
+          "id": "b3",
           "originalId": "0311d2e6-ea3c-4ce7-99eb-2cf97c19d31a",
           "type": "text"
         },
         {
-          "id": "b3",
+          "id": "b4",
           "originalId": "5807dea0-9a1f-4ae4-abb6-3f55519bdbd1",
           "type": "embed"
         },
         {
-          "id": "b4",
+          "id": "b5",
           "originalId": "1b5ae3f3-b249-4a0a-8aa6-6be1f779196c",
           "type": "text"
         },
         {
-          "id": "b5",
+          "id": "b6",
           "originalId": "1b3e8e6e-c38e-4681-ac12-d33ea152e8d7",
           "type": "text"
         }
@@ -2978,24 +2983,19 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 1,
       "blocks": [
         {
-          "id": "b6",
+          "id": "b7",
           "originalId": "5a5893e1-c856-49a0-a759-57bbf85df7ce",
           "type": "embed"
         },
         {
-          "id": "b7",
+          "id": "b8",
           "originalId": "b863c3b6-bdd5-41ee-ac83-6b87fa422c7a",
           "type": "image"
         },
         {
-          "id": "b8",
+          "id": "b9",
           "originalId": "1829065e-e7b7-4a44-b141-3050e597448a",
           "type": "text"
-        },
-        {
-          "id": "b9",
-          "originalId": "d00a7eef-b1bc-493a-9068-64fafea0c3da",
-          "type": "video"
         },
         {
           "id": "b10",
@@ -3060,7 +3060,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s3",
       "originalId": "c1674b81-d0b5-45ea-9fad-aa80ac0bc496",
-      "title": "Comprender el abuso en línea",
+      "title": "Comprendiendo el abuso en línea",
       "index": 3,
       "blocks": [
         {
@@ -3489,7 +3489,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s6",
       "originalId": "45f8a7b8-a73e-4b0c-9f14-df81ae8aa51d",
-      "title": "Conozca sus derechos y responsabilidades",
+      "title": "Conociendo tus derechos y responsabilidades",
       "index": 6,
       "blocks": [
         {
@@ -3803,8 +3803,8 @@ window.__BLOCK_ID_MAPPING__ = {
     "blockTypes": [
       "text",
       "image",
-      "embed",
       "video",
+      "embed",
       "separator",
       "navigation_button",
       "slide_intro"
