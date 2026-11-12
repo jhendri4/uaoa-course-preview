@@ -1,10 +1,10 @@
 // Block ID Mapping
-// Generated: 2026-11-11T18:16:30.757Z
+// Generated: 2026-11-12T03:08:51.992Z
 // Course: UAOA eLearning Course (CS)
 window.__BLOCK_ID_MAPPING__ = {
   "courseId": "cf82e1b0-67b6-4824-b3ab-dcf26796c057",
   "courseTitle": "UAOA eLearning Course (CS)",
-  "generatedAt": "2026-11-11T18:16:30.757Z",
+  "generatedAt": "2026-11-12T03:08:51.992Z",
   "version": "1.0",
   "blocks": {
     "b0": {
@@ -42,6 +42,23 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideIndex": 0
     },
     "b2": {
+      "originalId": "3b97c951-b46a-4621-afb1-0666be4197c0",
+      "type": "video",
+      "variant": "video",
+      "slideId": "s0",
+      "slideOriginalId": "09ce7889-ad71-48b2-9520-d77ce824461f",
+      "slideIndex": 0,
+      "slideTitle": "O tomto kurzu"
+    },
+    "3b97c951-b46a-4621-afb1-0666be4197c0": {
+      "sequentialId": "b2",
+      "type": "video",
+      "variant": "video",
+      "slideId": "s0",
+      "slideOriginalId": "09ce7889-ad71-48b2-9520-d77ce824461f",
+      "slideIndex": 0
+    },
+    "b3": {
       "originalId": "2cea7612-0b98-4fe3-aa27-b1759f5cd570",
       "type": "text",
       "variant": "subheading",
@@ -51,14 +68,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "O tomto kurzu"
     },
     "2cea7612-0b98-4fe3-aa27-b1759f5cd570": {
-      "sequentialId": "b2",
+      "sequentialId": "b3",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "09ce7889-ad71-48b2-9520-d77ce824461f",
       "slideIndex": 0
     },
-    "b3": {
+    "b4": {
       "originalId": "a3fb201f-d08c-4fb8-9668-f74facb8173b",
       "type": "embed",
       "variant": "iframe",
@@ -68,14 +85,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "O tomto kurzu"
     },
     "a3fb201f-d08c-4fb8-9668-f74facb8173b": {
-      "sequentialId": "b3",
+      "sequentialId": "b4",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s0",
       "slideOriginalId": "09ce7889-ad71-48b2-9520-d77ce824461f",
       "slideIndex": 0
     },
-    "b4": {
+    "b5": {
       "originalId": "9226e5e1-fabe-4e90-b163-d9f82b2b551a",
       "type": "text",
       "variant": "subheading_with_paragraph",
@@ -85,14 +102,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "O tomto kurzu"
     },
     "9226e5e1-fabe-4e90-b163-d9f82b2b551a": {
-      "sequentialId": "b4",
+      "sequentialId": "b5",
       "type": "text",
       "variant": "subheading_with_paragraph",
       "slideId": "s0",
       "slideOriginalId": "09ce7889-ad71-48b2-9520-d77ce824461f",
       "slideIndex": 0
     },
-    "b5": {
+    "b6": {
       "originalId": "b2a3d211-a000-4e56-8a7e-8d3f9776e692",
       "type": "text",
       "variant": "subheading",
@@ -102,14 +119,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "O tomto kurzu"
     },
     "b2a3d211-a000-4e56-8a7e-8d3f9776e692": {
-      "sequentialId": "b5",
+      "sequentialId": "b6",
       "type": "text",
       "variant": "subheading",
       "slideId": "s0",
       "slideOriginalId": "09ce7889-ad71-48b2-9520-d77ce824461f",
       "slideIndex": 0
     },
-    "b6": {
+    "b7": {
       "originalId": "e53b3bb4-99d3-415d-923a-ba9c870a48b3",
       "type": "embed",
       "variant": "iframe",
@@ -119,14 +136,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Vítejte"
     },
     "e53b3bb4-99d3-415d-923a-ba9c870a48b3": {
-      "sequentialId": "b6",
+      "sequentialId": "b7",
       "type": "embed",
       "variant": "iframe",
       "slideId": "s1",
       "slideOriginalId": "56da0dd9-a192-4a89-a9e2-00478b01e7a5",
       "slideIndex": 1
     },
-    "b7": {
+    "b8": {
       "originalId": "6f8058e9-b08a-4c2b-bc28-e4d9461c1f13",
       "type": "image",
       "variant": "text_on_image",
@@ -136,14 +153,14 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Vítejte"
     },
     "6f8058e9-b08a-4c2b-bc28-e4d9461c1f13": {
-      "sequentialId": "b7",
+      "sequentialId": "b8",
       "type": "image",
       "variant": "text_on_image",
       "slideId": "s1",
       "slideOriginalId": "56da0dd9-a192-4a89-a9e2-00478b01e7a5",
       "slideIndex": 1
     },
-    "b8": {
+    "b9": {
       "originalId": "7f502182-9001-48c7-a1f2-15d885b57453",
       "type": "text",
       "variant": "paragraph",
@@ -153,26 +170,9 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideTitle": "Vítejte"
     },
     "7f502182-9001-48c7-a1f2-15d885b57453": {
-      "sequentialId": "b8",
+      "sequentialId": "b9",
       "type": "text",
       "variant": "paragraph",
-      "slideId": "s1",
-      "slideOriginalId": "56da0dd9-a192-4a89-a9e2-00478b01e7a5",
-      "slideIndex": 1
-    },
-    "b9": {
-      "originalId": "3b97c951-b46a-4621-afb1-0666be4197c0",
-      "type": "video",
-      "variant": "video",
-      "slideId": "s1",
-      "slideOriginalId": "56da0dd9-a192-4a89-a9e2-00478b01e7a5",
-      "slideIndex": 1,
-      "slideTitle": "Vítejte"
-    },
-    "3b97c951-b46a-4621-afb1-0666be4197c0": {
-      "sequentialId": "b9",
-      "type": "video",
-      "variant": "video",
       "slideId": "s1",
       "slideOriginalId": "56da0dd9-a192-4a89-a9e2-00478b01e7a5",
       "slideIndex": 1
@@ -303,7 +303,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s2",
       "slideOriginalId": "734e1a46-d471-4ca2-96a8-e463054d1732",
       "slideIndex": 2,
-      "slideTitle": "Předkurzní Průzkum"
+      "slideTitle": "Úvodní dotazník"
     },
     "cf19c872-c0fb-4184-a06c-0dbcb1e38920": {
       "sequentialId": "b17",
@@ -320,7 +320,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s2",
       "slideOriginalId": "734e1a46-d471-4ca2-96a8-e463054d1732",
       "slideIndex": 2,
-      "slideTitle": "Předkurzní Průzkum"
+      "slideTitle": "Úvodní dotazník"
     },
     "0c34d922-ee61-4e85-a35e-5234e7e8f82f": {
       "sequentialId": "b18",
@@ -337,7 +337,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s2",
       "slideOriginalId": "734e1a46-d471-4ca2-96a8-e463054d1732",
       "slideIndex": 2,
-      "slideTitle": "Předkurzní Průzkum"
+      "slideTitle": "Úvodní dotazník"
     },
     "ed0be7d2-7066-4ab0-8bda-950374eeeed2": {
       "sequentialId": "b19",
@@ -1153,7 +1153,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "40bb0a2c-0d1d-4742-a2d9-5f5c77a85c7b": {
       "sequentialId": "b67",
@@ -1170,7 +1170,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "76bd6eef-2f12-4e8a-8006-23fa5eca7de8": {
       "sequentialId": "b68",
@@ -1187,7 +1187,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "4e1c88c5-c6f7-4db9-96d1-1a3340db5bec": {
       "sequentialId": "b69",
@@ -1204,7 +1204,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "9e43c43b-83a1-45fb-ae4e-ba83187045c0": {
       "sequentialId": "b70",
@@ -1221,7 +1221,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "e5214952-43c3-4099-8497-41d87103a7b3": {
       "sequentialId": "b71",
@@ -1238,7 +1238,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "b7517351-2f26-4b11-9c71-80026d6054a4": {
       "sequentialId": "b72",
@@ -1255,7 +1255,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "e9de2e0c-9fd4-4ab9-a051-67654facaea6": {
       "sequentialId": "b73",
@@ -1272,7 +1272,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "57309e0c-90cf-4daf-8806-99782bd92ac0": {
       "sequentialId": "b74",
@@ -1289,7 +1289,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "b39f17a7-789c-42f5-ac4f-e7e74cf095fe": {
       "sequentialId": "b75",
@@ -1306,7 +1306,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "ece86615-a03f-41f6-8cdd-d7a6aeb8c254": {
       "sequentialId": "b76",
@@ -1323,7 +1323,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "ed4e8828-df69-4ea1-b573-83a072770e69": {
       "sequentialId": "b77",
@@ -1340,7 +1340,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "e0b2bb29-17ea-41d1-9c33-3ebce5f7bfff": {
       "sequentialId": "b78",
@@ -1357,7 +1357,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "6d7feaaa-43c7-4136-8054-7e9711d1e735": {
       "sequentialId": "b79",
@@ -1374,7 +1374,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "620d5558-b7a2-483b-bed1-c28f07a8f195": {
       "sequentialId": "b80",
@@ -1391,7 +1391,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "046b2fdd-126d-4ce6-b1e5-847eff3e7eae": {
       "sequentialId": "b81",
@@ -1408,7 +1408,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "a8dc3bdc-fc5a-40a3-b959-d10797f4970c": {
       "sequentialId": "b82",
@@ -1425,7 +1425,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "db0f1e6b-7a78-417f-828d-66bdc557ba3f": {
       "sequentialId": "b83",
@@ -1442,7 +1442,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "6f805746-8c4c-45e4-be1e-177d27519ffe": {
       "sequentialId": "b84",
@@ -1459,7 +1459,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "574cf924-87f4-4c42-ad32-068520364673": {
       "sequentialId": "b85",
@@ -1476,7 +1476,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "343f0cb8-b1d9-40e5-9d28-f4092419e056": {
       "sequentialId": "b86",
@@ -1493,7 +1493,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "a9b96b2f-7156-4c08-88d5-8a1e5b685819": {
       "sequentialId": "b87",
@@ -1510,7 +1510,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "950b33a6-c93f-43f7-8d50-8c8e02d6c1f5": {
       "sequentialId": "b88",
@@ -1527,7 +1527,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "f52a3ae9-4b72-4564-84a1-b5d55b3adb0f": {
       "sequentialId": "b89",
@@ -1544,7 +1544,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "abad66e6-4ce6-4ff9-8133-2da0831812af": {
       "sequentialId": "b90",
@@ -1561,7 +1561,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "a8ed3361-f301-476f-bbee-d8ad83e80cf7": {
       "sequentialId": "b91",
@@ -1578,7 +1578,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "1a0ea1ba-7c38-4b90-be25-77dba9bf5193": {
       "sequentialId": "b92",
@@ -1595,7 +1595,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "c342fc94-a8f4-4810-acd0-65e6c8cac8d7": {
       "sequentialId": "b93",
@@ -1612,7 +1612,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "c48f13c9-78fa-4d5d-920a-87e368c5bad2": {
       "sequentialId": "b94",
@@ -1629,7 +1629,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "1bad17cf-e84b-4f91-9ff7-82ad19c5bed9": {
       "sequentialId": "b95",
@@ -1646,7 +1646,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "ff48af5c-f4f6-4c13-aa92-afcf5c4754a8": {
       "sequentialId": "b96",
@@ -1663,7 +1663,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "f1a2c03c-0d9f-4071-bc67-f05bf86df06e": {
       "sequentialId": "b97",
@@ -1680,7 +1680,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "e9b6e68e-8b0a-45fc-9716-b16d9df3f98b": {
       "sequentialId": "b98",
@@ -1697,7 +1697,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "697d3d44-967c-4162-bd88-156580b7696e": {
       "sequentialId": "b99",
@@ -1714,7 +1714,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s5",
       "slideOriginalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
       "slideIndex": 5,
-      "slideTitle": "Jak se šíří online újma"
+      "slideTitle": "Jak se šíří škodlivý obsah na internetu"
     },
     "793347f2-95a4-4c98-9f13-e73245a4acd1": {
       "sequentialId": "b100",
@@ -2156,7 +2156,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "8e9ffb77-c860-4190-809f-9a957c60e619": {
       "sequentialId": "b126",
@@ -2173,7 +2173,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "c1658b97-4eb9-43fb-ba3d-2d70cc0b1e11": {
       "sequentialId": "b127",
@@ -2190,7 +2190,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "919601e1-e662-45f4-a510-ad9d5c883528": {
       "sequentialId": "b128",
@@ -2207,7 +2207,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "81b9cb8b-2f4b-49d2-a10d-6b1df04aea57": {
       "sequentialId": "b129",
@@ -2224,7 +2224,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "e5e95096-7260-40f3-9c94-17fbf7fb8d1b": {
       "sequentialId": "b130",
@@ -2241,7 +2241,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "41a766b6-750f-4489-8c6f-9e601822f4a9": {
       "sequentialId": "b131",
@@ -2258,7 +2258,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "2b68343d-7e2d-4861-8399-4f69db9ac9db": {
       "sequentialId": "b132",
@@ -2275,7 +2275,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "c82029e4-4974-4d93-90ba-8d5971bde361": {
       "sequentialId": "b133",
@@ -2292,7 +2292,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "9bb8002a-b8de-4a43-908e-14fd8e1ef4e3": {
       "sequentialId": "b134",
@@ -2309,7 +2309,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "5cda114c-e25a-4791-b0b0-da60a92286a2": {
       "sequentialId": "b135",
@@ -2326,7 +2326,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "ea6149e6-fcd1-4e45-9f3a-41463f1fbc11": {
       "sequentialId": "b136",
@@ -2343,7 +2343,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "218ac5f0-be9f-4915-a56e-4f569d696226": {
       "sequentialId": "b137",
@@ -2360,7 +2360,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "3deb6953-92e1-48e8-b387-c17f12d8bdd7": {
       "sequentialId": "b138",
@@ -2377,7 +2377,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "666ef02f-3711-4b60-9d2f-d7c3035d7238": {
       "sequentialId": "b139",
@@ -2394,7 +2394,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "fbdee503-48a7-4650-8278-bb756c639f31": {
       "sequentialId": "b140",
@@ -2411,7 +2411,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "5d28fc1f-4aa9-429b-a0d6-d53dddb50ab7": {
       "sequentialId": "b141",
@@ -2428,7 +2428,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s7",
       "slideOriginalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
       "slideIndex": 7,
-      "slideTitle": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit"
+      "slideTitle": "Aktivně za budování bezpečnějších digitálních sportovních komunit"
     },
     "558e3534-bcf8-4cd2-91c2-ce1a3d41ef60": {
       "sequentialId": "b142",
@@ -2513,7 +2513,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s9",
       "slideOriginalId": "8032a910-aee9-408f-8652-23ce81f8c655",
       "slideIndex": 9,
-      "slideTitle": "Průzkum po kurzu"
+      "slideTitle": "Výstupní dotazník"
     },
     "cb423512-2813-49b9-ab86-426488279a7c": {
       "sequentialId": "b147",
@@ -2530,7 +2530,7 @@ window.__BLOCK_ID_MAPPING__ = {
       "slideId": "s9",
       "slideOriginalId": "8032a910-aee9-408f-8652-23ce81f8c655",
       "slideIndex": 9,
-      "slideTitle": "Průzkum po kurzu"
+      "slideTitle": "Výstupní dotazník"
     },
     "5f35b1f5-c9ca-495d-8b59-315942c0fd1a": {
       "sequentialId": "b148",
@@ -2654,7 +2654,8 @@ window.__BLOCK_ID_MAPPING__ = {
         "b2",
         "b3",
         "b4",
-        "b5"
+        "b5",
+        "b6"
       ]
     },
     "09ce7889-ad71-48b2-9520-d77ce824461f": {
@@ -2667,7 +2668,6 @@ window.__BLOCK_ID_MAPPING__ = {
       "title": "Vítejte",
       "index": 1,
       "blockIds": [
-        "b6",
         "b7",
         "b8",
         "b9",
@@ -2687,7 +2687,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "s2": {
       "originalId": "734e1a46-d471-4ca2-96a8-e463054d1732",
-      "title": "Předkurzní Průzkum",
+      "title": "Úvodní dotazník",
       "index": 2,
       "blockIds": [
         "b17",
@@ -2697,7 +2697,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "734e1a46-d471-4ca2-96a8-e463054d1732": {
       "sequentialId": "s2",
-      "title": "Předkurzní Průzkum",
+      "title": "Úvodní dotazník",
       "index": 2
     },
     "s3": {
@@ -2773,7 +2773,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "s5": {
       "originalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
-      "title": "Jak se šíří online újma",
+      "title": "Jak se šíří škodlivý obsah na internetu",
       "index": 5,
       "blockIds": [
         "b67",
@@ -2814,7 +2814,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "5d703e2e-f800-4bf9-bf78-acb56eea6f2e": {
       "sequentialId": "s5",
-      "title": "Jak se šíří online újma",
+      "title": "Jak se šíří škodlivý obsah na internetu",
       "index": 5
     },
     "s6": {
@@ -2856,7 +2856,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "s7": {
       "originalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
-      "title": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit",
+      "title": "Aktivně za budování bezpečnějších digitálních sportovních komunit",
       "index": 7,
       "blockIds": [
         "b126",
@@ -2880,7 +2880,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d": {
       "sequentialId": "s7",
-      "title": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit",
+      "title": "Aktivně za budování bezpečnějších digitálních sportovních komunit",
       "index": 7
     },
     "s8": {
@@ -2901,7 +2901,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "s9": {
       "originalId": "8032a910-aee9-408f-8652-23ce81f8c655",
-      "title": "Průzkum po kurzu",
+      "title": "Výstupní dotazník",
       "index": 9,
       "blockIds": [
         "b147",
@@ -2910,7 +2910,7 @@ window.__BLOCK_ID_MAPPING__ = {
     },
     "8032a910-aee9-408f-8652-23ce81f8c655": {
       "sequentialId": "s9",
-      "title": "Průzkum po kurzu",
+      "title": "Výstupní dotazník",
       "index": 9
     },
     "s10": {
@@ -2951,21 +2951,26 @@ window.__BLOCK_ID_MAPPING__ = {
         },
         {
           "id": "b2",
+          "originalId": "3b97c951-b46a-4621-afb1-0666be4197c0",
+          "type": "video"
+        },
+        {
+          "id": "b3",
           "originalId": "2cea7612-0b98-4fe3-aa27-b1759f5cd570",
           "type": "text"
         },
         {
-          "id": "b3",
+          "id": "b4",
           "originalId": "a3fb201f-d08c-4fb8-9668-f74facb8173b",
           "type": "embed"
         },
         {
-          "id": "b4",
+          "id": "b5",
           "originalId": "9226e5e1-fabe-4e90-b163-d9f82b2b551a",
           "type": "text"
         },
         {
-          "id": "b5",
+          "id": "b6",
           "originalId": "b2a3d211-a000-4e56-8a7e-8d3f9776e692",
           "type": "text"
         }
@@ -2978,24 +2983,19 @@ window.__BLOCK_ID_MAPPING__ = {
       "index": 1,
       "blocks": [
         {
-          "id": "b6",
+          "id": "b7",
           "originalId": "e53b3bb4-99d3-415d-923a-ba9c870a48b3",
           "type": "embed"
         },
         {
-          "id": "b7",
+          "id": "b8",
           "originalId": "6f8058e9-b08a-4c2b-bc28-e4d9461c1f13",
           "type": "image"
         },
         {
-          "id": "b8",
+          "id": "b9",
           "originalId": "7f502182-9001-48c7-a1f2-15d885b57453",
           "type": "text"
-        },
-        {
-          "id": "b9",
-          "originalId": "3b97c951-b46a-4621-afb1-0666be4197c0",
-          "type": "video"
         },
         {
           "id": "b10",
@@ -3037,7 +3037,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s2",
       "originalId": "734e1a46-d471-4ca2-96a8-e463054d1732",
-      "title": "Předkurzní Průzkum",
+      "title": "Úvodní dotazník",
       "index": 2,
       "blocks": [
         {
@@ -3311,7 +3311,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s5",
       "originalId": "5d703e2e-f800-4bf9-bf78-acb56eea6f2e",
-      "title": "Jak se šíří online újma",
+      "title": "Jak se šíří škodlivý obsah na internetu",
       "index": 5,
       "blocks": [
         {
@@ -3622,7 +3622,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s7",
       "originalId": "ee6e8169-aee3-47be-8d8a-ca8366f7ff7d",
-      "title": "Přijměte opatření: Budování bezpečnějších digitálních sportovních komunit",
+      "title": "Aktivně za budování bezpečnějších digitálních sportovních komunit",
       "index": 7,
       "blocks": [
         {
@@ -3743,7 +3743,7 @@ window.__BLOCK_ID_MAPPING__ = {
     {
       "id": "s9",
       "originalId": "8032a910-aee9-408f-8652-23ce81f8c655",
-      "title": "Průzkum po kurzu",
+      "title": "Výstupní dotazník",
       "index": 9,
       "blocks": [
         {
@@ -3803,8 +3803,8 @@ window.__BLOCK_ID_MAPPING__ = {
     "blockTypes": [
       "text",
       "image",
-      "embed",
       "video",
+      "embed",
       "separator",
       "navigation_button",
       "slide_intro"
